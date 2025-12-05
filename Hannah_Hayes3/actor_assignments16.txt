@@ -146,21 +146,21 @@ Character 2: [with finality] Then we'd better make these sunrises count. [Deep b
 --- CS ALPHANUMERIC ---
 Script: 30c5ae23 | Role: Character 1
 
-1322 Character 1: [flatly] Hi, I'm calling about my MindfulMe app, account ID MM-7842-X9. [sighs heavily] I just... I noticed you updated your privacy policy again, and [trailing off] I don't know if I even care anymore, but what changed?
+Character 1: [flatly] Hi, I'm calling about my MindfulMe app, account ID MM-7842-X9. [sighs heavily] I just... I noticed you updated your privacy policy again, and [trailing off] I don't know if I even care anymore, but what changed?
 
-Customer Support: D2: [warmly] Thank you for reaching out about your account, MM-7842-X9. [reassuringly] I understand privacy updates can feel overwhelming. [more gently] The main changes involve data sharing with our new wellness partners at 2847 Harmony Boulevard—would you like me to explain the specifics?
-1323 Character 1: [monotone] Sure, whatever. [long exhale] I've been using this app for like, what, three months? [more quietly] Nothing's really helping anyway, so maybe my data doesn't even matter.
+1322 Customer Support: [warmly] Thank you for reaching out about your account, MM-7842-X9. [reassuringly] I understand privacy updates can feel overwhelming. [more gently] The main changes involve data sharing with our new wellness partners at 2847 Harmony Boulevard—would you like me to explain the specifics?
+Character 1: [monotone] Sure, whatever. [long exhale] I've been using this app for like, what, three months? [more quietly] Nothing's really helping anyway, so maybe my data doesn't even matter.
 
-Customer Support: D4: [concerned] I hear that you're feeling discouraged, and that's completely valid. [professionally] Regarding your data, we now share anonymized usage patterns with research code RX-92B only. [more empathetically] But first—have you been able to access our new crisis support feature at all?
-1324 Character 1: [dismissively] Crisis support, meditation tracks, mood journals... [groans] I've tried them all since October 23rd. [flatly] So you're selling my sad little check-ins to researchers now, is that it?
+1323 Customer Support: [concerned] I hear that you're feeling discouraged, and that's completely valid. [professionally] Regarding your data, we now share anonymized usage patterns with research code RX-92B only. [more empathetically] But first—have you been able to access our new crisis support feature at all?
+Character 1: [dismissively] Crisis support, meditation tracks, mood journals... [groans] I've tried them all since October 23rd. [flatly] So you're selling my sad little check-ins to researchers now, is that it?
 
-Customer Support: D6: [firmly] We never sell personal data—that's against our core policy 14.2A. [more softly] The research partnership only uses aggregated, completely anonymous patterns. [reassuringly] Your individual entries, especially from your journal feature, remain encrypted with key protocol AES-256.
-1325 Character 1: [sarcastically] Oh good, my 3 AM anxiety spirals are safe behind some... some fancy numbers. [sighs] Look, can I just—can I opt out of everything? [defeated] Delete account number MM-7842-X9 entirely?
+1324 Customer Support: [firmly] We never sell personal data—that's against our core policy 14.2A. [more softly] The research partnership only uses aggregated, completely anonymous patterns. [reassuringly] Your individual entries, especially from your journal feature, remain encrypted with key protocol AES-256.
+Character 1: [sarcastically] Oh good, my 3 AM anxiety spirals are safe behind some... some fancy numbers. [sighs] Look, can I just—can I opt out of everything? [defeated] Delete account number MM-7842-X9 entirely?
 
-Customer Support: D8: [gently] You absolutely have that option under section 8.4 of our terms. [pause] [more carefully] Before you decide though, I see you've built quite a streak—47 days. [encouragingly] Would you consider maybe just pausing sharing instead of full deletion?
-1326 Character 1: [bitterly] Forty-seven days of what exactly? [quieter] Pressing buttons, rating my mood from one to ten every morning at 7:15? [sighs deeply] Fine, how do I pause this sharing thing without losing everything?
+1325 Customer Support: [gently] You absolutely have that option under section 8.4 of our terms. [pause] [more carefully] Before you decide though, I see you've built quite a streak—47 days. [encouragingly] Would you consider maybe just pausing sharing instead of full deletion?
+Character 1: [bitterly] Forty-seven days of what exactly? [quieter] Pressing buttons, rating my mood from one to ten every morning at 7:15? [sighs deeply] Fine, how do I pause this sharing thing without losing everything?
 
-Customer Support: D10: [brightening] I can help you with that right now—it's under Settings, then Privacy Control tab PC-3. [helpfully] You'll see toggle switch PS-001 for research sharing. [more personally] And hey, those 47 days of showing up? That actually means something, even when it doesn't feel like it.
+1326 Customer Support: [brightening] I can help you with that right now—it's under Settings, then Privacy Control tab PC-3. [helpfully] You'll see toggle switch PS-001 for research sharing. [more personally] And hey, those 47 days of showing up? That actually means something, even when it doesn't feel like it.
 
 --- CS NO-ALPHANUMERIC ---
 Script: 54567cea | Role: Customer Support
