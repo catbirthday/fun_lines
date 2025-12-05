@@ -1,0 +1,360 @@
+ACTOR LINE ASSIGNMENTS - 97 ITEMS (~2308 words)
+============================================================
+
+WORD COUNT BREAKDOWN:
+  empathetic_partial  :  589 words ( 25.5%)
+  monologues_selftalk :  210 words (  9.1%)
+  conversation        :  352 words ( 15.3%)
+  cs_alpha            :  211 words (  9.1%)
+  cs_noalpha          :  295 words ( 12.8%)
+  basic_scenarios     :  407 words ( 17.6%)
+  monologues          :  244 words ( 10.6%)
+  TOTAL               : 2308 words
+
+============================================================
+
+============================================================
+ITEMS 1-10 - EMPATHETIC PARTIAL (67 words)
+Script: ddc2c9cb_script
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: We need to talk about what you've been doing.
+1 Character 2: What I've been—okay, if this is about the meditation thing again, I was literally just trying to help. You've been so stressed lately and I thought maybe—
+Character 1: It's not just the meditation.
+2 Character 2: Then what? Because honestly, I feel like everything I suggest lately, you just [scoff] shut down immediately. Like I'm not allowed to care about your wellbeing or something.
+Character 1: There's a difference between caring and preaching.
+3 Character 2: Preaching? That's—wow, okay, that's what you think I'm doing? I mention something that changed my life and suddenly I'm preaching? Come on, that's not fair.
+Character 1: Every conversation. Every single one.
+4 Character 2: That's not—that's literally not true. We talked about your job stuff for like two hours yesterday without me mentioning anything spiritual or whatever you wanna call it.
+Character 1: And then you said my negative energy was the problem.
+5 Character 2: Because it kinda is! [Frustrated laugh] I mean—look look, I'm not saying you're a negative person, but the way you approach things sometimes, it's like... you're setting yourself up to fail, y'know?
+Character 1: According to your philosophy.
+6 Character 2: It's not—ugh, it's not "my philosophy," it's just... okay fine, maybe I do bring it up a lot. But it's because I genuinely think it could help you. Is that really so terrible?
+Character 1: I never asked for your help.
+7 Character 2: No, you didn't. You just complain about the same problems over and over and I'm supposed to—what? Just nod and pretend I don't know something that might actually make a difference?
+Character 1: Yes. That's called being a friend.
+8 Character 2: That's called enabling, actually. And I'm sorry but—no, you know what? I'm not even that sorry. [Sigh] Friends are supposed to push each other to be better, not just... sit there and watch each other struggle.
+Character 1: You don't get to decide what's better for me.
+9 Character 2: I'm not deciding anything! I'm offering—suggesting—things that worked for me. And yeah, okay okay, maybe I get a little too enthusiastic about it sometimes, but it's coming from a good place.
+Character 1: Doesn't feel that way anymore.
+10 Character 2: Well that's—that really sucks to hear, honestly. Because everything I do, even the annoying stuff apparently, it's because I care about you. But fine, I'll just... keep my suggestions to myself from now on, I guess.
+
+Script: 48511c3c_script
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: We need to talk about your phone.
+11 Character 2: My phone? What about—oh. Oh no. Is this about dinner last night? Because I can explain, I swear, it was just—my mom was texting me about my grandma and I thought it might be important.
+Character 1: It's every time we hang out.
+12 Character 2: That's not—okay wait, that's kinda true. [nervous laugh] But it's not on purpose! I don't mean to be rude, I just—sometimes I don't even realize I'm doing it, y'know?
+Character 1: You answered three texts during the movie. The movie you picked.
+13 Character 2: I know, I know, that was—god, that was really bad. I'm sorry. It's just this group chat wouldn't stop going off and I kept thinking it might be about work stuff, but that's not an excuse.
+Character 1: Do you even want to hang out with me?
+14 Character 2: What? Yes! Of course I do! Why would you even—oh. Oh shit. That's what it looks like, doesn't it? [groan] When I'm constantly on my phone it looks like I don't wanna be there.
+Character 1: Yeah. It does.
+15 Character 2: I'm such an idiot. I literally—I love hanging out with you, you're like my favorite person. But I've been making you feel like you're not even worth putting my phone down for. That's so messed up.
+Character 1: Last week at coffee you scrolled Instagram the entire time I was telling you about my job interview.
+16 Character 2: Oh my god. I did, didn't I? I remember you were talking and I was—I was nodding along but I wasn't really... Fuck. I'm the worst friend. No no, don't even argue, I really am.
+Character 1: I'm not arguing.
+17 Character 2: Okay I deserve that too. Listen, I'm gonna—I'm gonna do better. Like actually better, not just saying it. Maybe I'll just turn my phone off when we hang out? Or put it in my bag?
+Character 1: You've said that before.
+18 Character 2: I have. You're right, I have, and then I just—I dunno, I fall back into old habits. But this time I mean it because honestly? Seeing how hurt you are right now is kinda killing me. [quieter] I never wanted to make you feel like you don't matter.
+Character 1: You really hurt my feelings.
+19 Character 2: I know. And I'm so, so sorry. You deserve a friend who's actually present, who listens when you talk about important stuff. Not someone who's half-paying attention while doom-scrolling or whatever.
+Character 1: I just want my friend back. The one who used to actually talk to me.
+20 Character 2: You've got me. Right here, right now, no phone. And I'm gonna—wait, actually, watch this. [pause] There. Phone's off. Completely off. And it's staying that way for the rest of today, I promise.
+
+Script: 328a270e_script
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So. Twins.
+21 Character 2: Wait wait wait—what? Did you just—hold on, are you saying what I think you're saying? Oh my god, you're having twins?
+Character 1: Found out yesterday.
+22 Character 2: I'm—okay I'm literally speechless right now which, y'know, never happens. But like... twins! That's—[Gasp] that's incredible! How are you even processing this?
+Character 1: I'm not.
+23 Character 2: No no, that's—that's totally fair. I mean, you were just getting used to the idea of one baby and now it's like, surprise! Double everything!
+Character 1: Double everything. Right. That's one way to put it.
+24 Character 2: Are you—I mean, obviously you're freaking out, right? Like, I'd be completely losing it. In a good way! But also, y'know, terrified.
+Character 1: The ultrasound tech kept saying "congratulations" over and over. I wanted to throw something.
+25 Character 2: Oh babe, that's—[Laugh] okay that's actually kinda hilarious but also I totally get it. Like, read the room, lady! You're in shock!
+Character 1: Two cribs. Two car seats. Two college funds.
+26 Character 2: Okay okay, but also—hear me out—they'll have each other, y'know? Like, built-in best friends? That's actually really, really special when you think about it.
+Character 1: My mom cried. Happy tears, apparently.
+27 Character 2: Of course she did! She's gonna be—oh god, she's gonna spoil them rotten, isn't she? Like, absolutely no boundaries whatsoever. [Chuckle]
+Character 1: Already talking about matching outfits.
+28 Character 2: Stop it—she is not! Actually no, that tracks. That's so her. But um, seriously though, how's your partner handling all this?
+Character 1: Better than me. They made a spreadsheet.
+29 Character 2: A spreadsheet? Already? That's—I mean, honestly that's kinda impressive. Very on-brand for them though, gotta say.
+Character 1: I haven't slept since we found out.
+30 Character 2: Hey, come here—no really, come here. This is huge and scary and like, completely life-changing. But you? You're gonna be amazing at this. Both of you are.
+
+Script: 0086cb90_script
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You didn't show up.
+31 Character 2: Oh god, I know—I'm so sorry. I was gonna text you but then—okay that sounds worse. Um, basically Jake called and said everyone was meeting up and I thought it would be quick, like maybe an hour? But then—
+Character 1: I waited for two hours.
+32 Character 2: Two hours? Oh no no no, I didn't—I had no idea it was that long. [groan] I'm such an idiot. I completely lost track of time and that's not an excuse, I know, but I swear I wasn't trying to ditch you.
+Character 1: Right. You just forgot I existed.
+33 Character 2: That's not—okay, yeah, I can see how it looks like that. But it wasn't like "oh forget about them," it was more like... I dunno, I got caught up? Which sounds terrible when I say it out loud.
+Character 1: This is the third time.
+34 Character 2: Wait wait, third? I mean—okay you're right, there was the movie thing and then... [nervous laugh] yeah. Yeah, you're right. God, I'm literally the worst friend ever, aren't I? I keep doing this and I don't even realize—
+Character 1: Apparently Jake's more important.
+35 Character 2: No! No, that's not—he's not more important, I promise. It's just, um, you know how when a group's doing something and you kinda get swept up? That's—that's what keeps happening. But you're right to be mad. Like, completely right.
+Character 1: I'm done being your backup plan.
+36 Character 2: Backup plan? You're not—oh god, is that really how I've been making you feel? [sigh] I'm so sorry. Like genuinely, from the bottom of my heart sorry. You're one of my best friends and I've been treating you like... like you don't matter. Which is so messed up.
+Character 1: Yeah. It is.
+37 Character 2: I wanna fix this. I mean—I need to fix this, right? Because I can't lose you over me being an inconsiderate jerk. Tell me what to do and I'll—actually no, that's not fair to put on you. I should figure it out myself.
+Character 1: You always say you'll do better.
+38 Character 2: I know I know, and then I don't, and that's—that's on me. Honestly? I think I just get really bad FOMO and then I hurt the people who actually matter. Like you. You matter so much and I keep proving the opposite with my actions.
+Character 1: I just wanted to hang out with my friend.
+39 Character 2: And I ruined it. Again. Look, I'm gonna—no more group hangs when we have plans. Like, literally gonna put it in my calendar and everything. "Sacred friend time" or whatever. [quieter] I really don't wanna lose you over this.
+Character 1: You promise? Actually promise this time?
+40 Character 2: I promise. And I mean it—I'm gonna show you, not just say it, y'know? Actions not words. Starting with... um, wanna get coffee tomorrow? Just us? And I'll turn my phone completely off. Like, powered down off. Would that—would that be okay?
+
+Script: ef83a0f4_script
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+Character 1: You brought up Marcus again last night.
+41 Character 2: I—what? I mentioned him like once, in passing. It's not like I was going on and on about him or anything. You're making it sound way worse than it was.
+Character 1: Third time this week.
+42 Character 2: Okay okay, but that's because—look, we ran into his friend at the coffee shop, remember? And then his name came up naturally when we were talking about that concert. I'm not like, obsessing over him.
+Character 1: Sure you're not.
+43 Character 2: Oh come on, that's—[scoff] seriously? You're gonna be like this? I can't even mention someone I dated for two years without you getting all weird about it?
+Character 1: It's not just mentioning. It's how you mention him.
+44 Character 2: How I—what does that even mean? I talk about him the same way I talk about anyone else from my past. You're reading into things that aren't there, and honestly, it's kinda exhausting.
+Character 1: Your voice literally changes.
+45 Character 2: That's not—okay, even if it does, which I don't think it does, but even if—so what? We had history. That doesn't mean I'm still hung up on him. [frustrated laugh] You're being ridiculous right now.
+Character 1: Am I?
+46 Character 2: Yeah, actually, you are. I mean, I broke up with him, remember? I ended it. Why would I—look look, I get that you're trying to be protective or whatever, but this is getting old.
+Character 1: You checked his Instagram yesterday. While we were talking.
+47 Character 2: I—that was—okay fine, yes, but his story popped up and I clicked it without thinking. It's muscle memory, not like, pining or whatever you think it is. [sigh] You do stuff like that with your exes too, don't even pretend you don't.
+Character 1: Not while pretending I'm over them.
+48 Character 2: Pretending? Are you—wow. Okay. So now I'm lying to myself too? That's great. Really supportive friend energy you're giving off here. I dunno why I even bother trying to explain myself to you sometimes.
+Character 1: Because you know I'm right.
+49 Character 2: No, because I—[groan] because I care what you think, obviously. But you're not right about this. You're just... you're projecting or something, I dunno. Maybe you're the one who needs to deal with your stuff.
+Character 1: This isn't about me.
+50 Character 2: Isn't it though? Like, you've been weird about every relationship I've had since Marcus. Maybe—maybe you need to ask yourself why you're so invested in whether I'm over him or not. 'Cause honestly? This feels like it's more about you than me at this point.
+
+============================================================
+ITEMS 11-20 - EMPATHETIC PARTIAL (61 words)
+============================================================
+
+============================================================
+ITEMS 21-30 - EMPATHETIC PARTIAL (56 words)
+============================================================
+
+============================================================
+ITEMS 31-40 - EMPATHETIC PARTIAL (54 words)
+============================================================
+
+============================================================
+ITEMS 41-50 - EMPATHETIC PARTIAL (351 words)
+============================================================
+
+============================================================
+ITEMS 52-61 - CONVERSATION (352 words)
+Script: 47301987
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+52 Character 1: [overly cheerful] So, I've been reviewing your project proposal and [pause] I have some thoughts. [speeding up] Actually, quite a few thoughts—about the formatting, the font choice, even the margin width seems a bit off, don't you think?
+Character 2: [flat tone] The margins are standard one-inch. [quieter] I followed the company template exactly as specified. [forced pleasantness] But I'd be happy to hear your specific concerns about the actual content of the proposal itself.
+53 Character 1: [condescending] Well, before we get to content, [slower] let's talk about your color choices on slide seventeen. [sharp exhale] The blue is too blue, if you know what I mean? Maybe try a softer shade?
+Character 2: [measured breathing] That's the corporate brand blue. [more strained] The exact hex code from our style guide. [barely controlled] I can certainly change it if you'd prefer I violate our branding guidelines for this client presentation.
+54 Character 1: [defensive] No need to get snippy! [louder] I'm just trying to help you succeed here. [patronizing tone] Speaking of which, did you remember to run spell check? I always find at least three errors when I look.
+Character 2: [through gritted teeth] I ran spell check twice, plus Grammarly. [long exhale] Everything's been proofread by Sarah from communications too. [monotone] But please, feel free to point out any errors you've discovered during your thorough review.
+55 Character 1: [dismissive laugh] Sarah's great but she misses things. [rapid-fire delivery] Also, why didn't you CC me on the Tuesday email, the Wednesday follow-up, and that Thursday check-in? [accusatory] I need to be looped in on everything, remember?
+Character 2: [very quiet] You were CC'd on all three. [pause] [louder] They're in your inbox, marked as read. [bitter sweetness] Perhaps they got lost among your four hundred other unread emails from this week alone?
+56 Character 1: [flustered] Must be a glitch in my email then. [quickly changing subject] Anyway, back to page four—I'm thinking we need more buzzwords. [enthusiastic] Synergy, optimization, leverage! [demanding tone] Can you work those in by tomorrow morning?
+Character 2: [deep sigh] Tomorrow's Saturday. [sarcastic brightness] But sure, I'll squeeze "synergy" between "innovative solutions" and "paradigm shift." [under breath] I'm sure the client will love our meaningless corporate word salad instead of actual substance.
+57 Character 1: [oblivious] Perfect! [sing-song voice] Oh, and one more tiny thing—I noticed you used Arial instead of Calibri on the footnotes. [tsking sound] These details matter, you know. It shows attention to excellence.
+Character 2: [deadly calm] The footnotes are in eight-point Times New Roman, as legally required. [more firmly] But I understand your concern about excellence. [icy politeness] Should I also revise the punctuation to match your preferred style of random capitalization?
+58 Character 1: [nervous chuckle] There's that attitude again! [faster pace] Look, I stayed until nine last night reformatting your tables. [martyred tone] They were off by at least two pixels, maybe three. You're welcome, by the way.
+Character 2: [disbelief] Two pixels. [slower] You stayed three hours extra to adjust two pixels that no human eye could detect. [controlled rage] Meanwhile, the client's still waiting for the budget numbers you promised them last Monday.
+59 Character 1: [defensive shouting] The budget's complicated! [quieter] These things take time to perfect. [building up again] Unlike your proposal, which you slapped together in what, two weeks? [scoffing] Rush jobs always need my fixes.
+Character 2: [laughing bitterly] Two weeks of sixteen-hour days. [steadier] But yes, clearly I rushed it. [sarcastically sweet] Next time I'll take six months like your last project that got rejected in five minutes flat.
+60 Character 1: [wounded tone] That rejection wasn't about quality! [scrambling words] The client just didn't understand our vision. [getting higher pitched] But fine, do it your way. Just don't blame me when this falls apart tomorrow.
+Character 2: [exhausted] Tomorrow's presentation will go perfectly. [gathering strength] Because despite your pixel hunting and font obsessing, the actual content is solid. [firmly] I'll implement your margin changes tonight though. [muttered] All zero-point-zero-three inches of them.
+61 Character 1: [fake hurt] I detect sarcasm. [lecturing tone] You know, this kind of resistance to feedback won't help your performance review. [warning voice] Team players accept guidance gracefully, even about minor details like... everything I've mentioned.
+Character 2: [robotic cheerfulness] You're absolutely right. [more mechanically] I'll revise everything by tomorrow, including the invisible pixels and the legally required footnotes. [dropping act] Will there be anything else, or can I start my Friday night at eleven PM?
+
+============================================================
+ITEMS 62-66 - CS ALPHANUMERIC (211 words)
+Script: a9b6002d
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+Character 1: [groggily] Hi, uh... I'm calling about your boxing classes? [confused] I was just at the mall on Riverside Drive, and I think I... I don't really remember what happened, but [chuckles nervously] someone said I should call you guys about beginner levels?
+62 Customer Support: [concerned] Oh my, are you alright? [professionally] This is Iron Fist Gym on 4425 Madison Avenue. We do have several class levels available—our beginner program starts at just $89 per month. [gently] But first, did you say you don't remember what happened?
+Character 1: [embarrassed] Yeah, I was shopping for, um, workout gear actually, and then [pause] [shakily] everything went black near the sporting goods section. [sighs] The paramedic gave me your flyer with membership code BX2024A and said exercise might help with my... stress fainting issues.
+63 Customer Support: [sympathetically] Oh dear, that must have been frightening! [more upbeat] Well, our stress-relief boxing program might be perfect for you. [warmly] We have three levels: Fundamentals at $89, Intermediate at $125, and our Advanced Fighter package at $175 monthly.
+Character 1: [hesitantly] The fundamentals one sounds... safe? [nervously laughs] I mean, I literally just knocked myself out at Target, so maybe—[quickly] wait, does that include equipment? My member ID from my old gym was, uh, JF90887, if that transfers or something?
+64 Customer Support: [reassuring] Fundamentals is definitely the gentlest option, perfect for your situation. [cheerfully] Equipment rental is an extra $15 monthly, but your first pair of gloves is complimentary! [curiously] Unfortunately, ID JF90887 won't transfer, but I can set you up with a new account right now.
+Character 1: [more interested] Okay, so that's $89 plus $15... [calculating] $104 total? [groans] My insurance card number is HB4421-789-XX, do you guys—[hopefully] I mean, some places take health insurance for fitness stuff now, right?
+65 Customer Support: [apologetically] We don't directly bill insurance, but we can provide receipts for HSA reimbursement. [helpfully] Many clients use their flex spending! [enthusiastically] Also, if you sign up today with promo code KNOCKOUT50, you'll get 50% off your first month, making it just $52 initially.
+Character 1: [excited] KNOCKOUT50? [ironically amused] That's a bit on the nose for me today! [more seriously] Alright, let's do it—can I start next Monday at your, what, 6 AM class? [quieter] Assuming I'm cleared by my doctor by then, obviously.
+66 Customer Support: [laughing gently] I see the irony! [professionally] Monday 6 AM is perfect—that's instructor Jake's class in Studio B. [warmly] Just bring your doctor's clearance to reception, and we'll get you started with student number TKO-2024-1198. [encouragingly] You're going to love it!
+
+============================================================
+ITEMS 67-76 - CS NO-ALPHANUMERIC (295 words)
+Script: 1d1c5c02
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+67 Customer Support: [cheerfully] Good afternoon, thank you for calling StreamMax support, my name is Jennifer. [quickly] How can I assist you with your viewing experience today?
+Character 1: [frustrated] Yeah, hi, I've been trying to watch this show for [groans] the past hour and it just keeps—keeps buffering every five seconds. [irritated] I'm paying forty bucks a month for this?
+68 Customer Support: [sympathetically] Oh, I completely understand how frustrating that must be. [more briskly] Let me pull up your account real quick and we'll get this sorted—can I have your email address associated with the account?
+Character 1: [sighs heavily] It's, uh, markjohnson at gmail dot com. [sarcastically] You know, Netflix never does this to me, just saying.
+69 Customer Support: [professionally] Thank you, Mr. Johnson, I see your account here. [quickly] First thing, have you tried restarting your router? [more gently] I know it sounds basic but it resolves about seventy percent of streaming issues.
+Character 1: [exasperated] Of course I've restarted it! [louder] Twice! I've restarted the app, the TV, everything except maybe myself at this point.
+70 Customer Support: [apologetically] Right, sorry about that, just had to check. [briskly] What device are you streaming on and, um, what's your current internet speed—do you know?
+Character 1: [annoyed] It's a Samsung smart TV, brand new actually. [more calmly] My internet's supposed to be two hundred megabits, which should be [pause] more than enough, right?
+71 Customer Support: [quickly] Absolutely, that's plenty of speed for our service. [thoughtfully] Let me check if there's any, uh, service interruptions in your area—what's your zip code?
+Character 1: [tiredly] Nine zero two one zero. [frustrated] Look, I work from home, my internet's fine for everything else—video calls, downloads, [emphatic] literally everything except your app.
+72 Customer Support: [concerned] I'm not seeing any outages in Beverly Hills area. [more quickly] Can you tell me what quality setting you have selected in the app—is it on auto or manual?
+Character 1: [confused] Quality setting? [sighs] I don't know, wherever it was when I installed it. [sarcastically] Should I need a degree in computer science to watch a TV show?
+73 Customer Support: [reassuringly] No, no, absolutely not, let me walk you through it. [briskly] Go to settings, then playback settings, and tell me what you see there.
+Character 1: [reluctantly] Okay, hold on... [pause] It says "Best Available." [more irritated] Which apparently means worst available in my case.
+74 Customer Support: [quickly] Try switching it to "Good" instead of "Best"—I know it sounds backwards but [more explanatory] sometimes the auto-detection gets confused and tries to stream 4K when your connection fluctuates.
+Character 1: [skeptical] So you're telling me the solution is to [chuckles bitterly] pay for premium service but watch in lower quality? That's your fix?
+75 Customer Support: [apologetically] It's temporary, just to test if that's the issue. [more firmly] If it works, we can troubleshoot why the higher quality isn't streaming properly—might be a DNS issue or bandwidth throttling.
+Character 1: [sighs] Fine, let me try... [pause] [surprised] Oh, wait, it's actually playing now. [confused] But why should I have to do this?
+76 Customer Support: [relieved] Great! Now let's fix it properly. [quickly] I'm going to send you some advanced settings to change—check your email in about two minutes, and also [more carefully] I'm crediting your account for this month.
+Character 1: [somewhat appeased] Well, okay, that's... that's actually helpful. [more calmly] The credit helps, but you guys really need to fix this—it shouldn't be this complicated. [resigned] Thanks, Jennifer.
+
+============================================================
+ITEM 77 - BASIC SCENARIO (21 words)
+============================================================
+
+77 [Happy] Oh my god, is this—wait, this is Mr. Buttons! [Laugh] I thought Mom threw him out like twenty years ago!
+
+============================================================
+ITEM 78 - BASIC SCENARIO (24 words)
+============================================================
+
+78 [Slow] You know, I used to, um, carry this thing everywhere when I was little. [Sad] [Sigh] God, where does the time even go?
+
+============================================================
+ITEM 79 - BASIC SCENARIO (17 words)
+============================================================
+
+79 [Whisper] Don't judge me, but I kinda still remember all the adventures we went on together. [Chuckle]
+
+============================================================
+ITEM 80 - BASIC SCENARIO (25 words)
+============================================================
+
+80 [Fast] Wait wait wait, this can't be the same one—look, it's even got the burn mark from when I tried to give it superpowers! [Happy]
+
+============================================================
+ITEM 81 - BASIC SCENARIO (17 words)
+============================================================
+
+81 [Disappointed] It's so much smaller than I—I mean, I guess everything seemed bigger back then, right? [Tsk]
+
+============================================================
+ITEM 82 - BASIC SCENARIO (25 words)
+============================================================
+
+82 [Angry] Why would Dad keep this in the attic all these years and not, like, tell me? [Groan] I literally asked about it last Christmas!
+
+============================================================
+ITEM 83 - BASIC SCENARIO (20 words)
+============================================================
+
+83 [Sarcastic] Oh great, now I'm gonna cry over a stuffed dinosaur like I'm five years old again. [Slow] Real mature.
+
+============================================================
+ITEM 84 - BASIC SCENARIO (20 words)
+============================================================
+
+84 [Sad] I remember when Grandma gave me this—she said it would, um, it would protect me from bad dreams. [Whisper]
+
+============================================================
+ITEM 85 - BASIC SCENARIO (18 words)
+============================================================
+
+85 [Shout] No way! [Fast] This thing's gotta be worth something now—vintage toys are like, super collectible, aren't they?
+
+============================================================
+ITEM 86 - BASIC SCENARIO (23 words)
+============================================================
+
+86 [Chuckle] My kids are gonna think I'm absolutely insane when I tell them Mommy used to talk to this thing for hours. [Happy]
+
+============================================================
+ITEM 87 - BASIC SCENARIO (21 words)
+============================================================
+
+87 [Slow] The fabric still smells like our old house, y'know? [Sigh] Like mothballs and, uh, something else I can't quite place.
+
+============================================================
+ITEM 88 - BASIC SCENARIO (20 words)
+============================================================
+
+88 [Disappointed] I thought finding this would feel more—I dunno, meaningful or whatever. [Fast] But it's just a dirty old toy.
+
+============================================================
+ITEM 89 - BASIC SCENARIO (16 words)
+============================================================
+
+89 [Angry] [Shout] This is what started that huge fight between me and Sarah in second grade!
+
+============================================================
+ITEM 90 - BASIC SCENARIO (16 words)
+============================================================
+
+90 [Whisper] Honestly, I'm kinda scared to touch it—what if it, like, falls apart or something? [Slow]
+
+============================================================
+ITEM 91 - BASIC SCENARIO (22 words)
+============================================================
+
+91 [Sarcastic] Sure, let's just unpack thirty years of childhood trauma with one moldy teddy bear. [Tsk] [Disappointed] This day keeps getting better.
+
+============================================================
+ITEM 92 - BASIC SCENARIO (18 words)
+============================================================
+
+92 [Happy] [Fast] I gotta call Mom right now—she's not gonna believe I actually found where she hid it!
+
+============================================================
+ITEM 93 - BASIC SCENARIO (20 words)
+============================================================
+
+93 [Sad] You were my best friend before I learned how to, um—before real friends were even a thing. [Slow] [Sigh]
+
+============================================================
+ITEM 94 - BASIC SCENARIO (19 words)
+============================================================
+
+94 [Laugh] Remember when I tried to give you a haircut and basically—yeah, that didn't go well, did it? [Happy]
+
+============================================================
+ITEM 95 - BASIC SCENARIO (24 words)
+============================================================
+
+95 [Groan] Ugh, the amount of times I made everyone pretend this thing could talk at dinner. [Sarcastic] [Fast] I was such a weird kid.
+
+============================================================
+ITEM 96 - BASIC SCENARIO (21 words)
+============================================================
+
+96 [Whisper] [Sad] I'm sorry I left you behind when we moved—I was just trying to be, y'know, grown up or whatever.
