@@ -171,21 +171,21 @@ Character 2: [warmly] Tomorrow, 2 PM, absolutely. [excitedly] I'll bring earplug
 --- CS ALPHANUMERIC ---
 Script: 173adad2 | Role: Character 1
 
-595 Character 1: [pedantically] According to subsection 4.7B of our covenant agreement, the, uh, permissible mailbox height is explicitly delineated as 42 to 46 inches. [clears throat] Mine measures precisely 44.75 inches, yet I've received violation notice HV-2024-0892 dated November 15th.
+Character 1: [pedantically] According to subsection 4.7B of our covenant agreement, the, uh, permissible mailbox height is explicitly delineated as 42 to 46 inches. [clears throat] Mine measures precisely 44.75 inches, yet I've received violation notice HV-2024-0892 dated November 15th.
 
-Customer Support: D2: [apologetically] Mr. Whitmore, I see the notice here in our system. [sighs] The issue isn't the height actually—it's the, um, Byzantine mosaic pattern you've applied to the mailbox post. [more firmly] That violates Article 7, Section 2A regarding exterior modifications.
-596 Character 1: [incredulous] Byzantine? It's clearly Neo-Romanesque with Visigothic influences! [huffs indignantly] Furthermore, nowhere in the 247-page bylaws document does it specifically proscribe artistic embellishments under two square feet. [smugly] I've memorized every single ordinance.
+595 Customer Support: [apologetically] Mr. Whitmore, I see the notice here in our system. [sighs] The issue isn't the height actually—it's the, um, Byzantine mosaic pattern you've applied to the mailbox post. [more firmly] That violates Article 7, Section 2A regarding exterior modifications.
+Character 1: [incredulous] Byzantine? It's clearly Neo-Romanesque with Visigothic influences! [huffs indignantly] Furthermore, nowhere in the 247-page bylaws document does it specifically proscribe artistic embellishments under two square feet. [smugly] I've memorized every single ordinance.
 
-Customer Support: D4: [patiently] Sir, on page 189, paragraph 3, it states "all exterior fixtures must maintain uniform neighborhood aesthetics." [slightly exasperated] Your property at 4827 Willowbrook Lane has accumulated—let me check—seventeen violations since January. [groans softly] We need to address these systematically.
-597 Character 1: [defensively] Those alleged infractions are all highly contestable interpretations! [speaking faster] The garden gnome violation G-4521 ignores that it's actually a reproduction of a 14th-century gargoyle, and complaint L-7733 about my grass being 3.2 inches instead of 3.0 is just pedantic.
+596 Customer Support: [patiently] Sir, on page 189, paragraph 3, it states "all exterior fixtures must maintain uniform neighborhood aesthetics." [slightly exasperated] Your property at 4827 Willowbrook Lane has accumulated—let me check—seventeen violations since January. [groans softly] We need to address these systematically.
+Character 1: [defensively] Those alleged infractions are all highly contestable interpretations! [speaking faster] The garden gnome violation G-4521 ignores that it's actually a reproduction of a 14th-century gargoyle, and complaint L-7733 about my grass being 3.2 inches instead of 3.0 is just pedantic.
 
-Customer Support: D6: [wearily] Mr. Whitmore, the board meeting on December 3rd at 7 PM will review your case. [more sternly] You'll need to bring documentation, photos, and your member ID card WB-19847. [sighs heavily] The fines currently total $1,750 if not resolved.
-598 Character 1: [condescendingly] I shall present my dissertation-length rebuttal with forty-seven footnotes and appendices A through K. [mutters] The board's interpretation of "earth tones" in Section 9.4 is laughably provincial—beige and taupe aren't the only colors found in nature, you know.
+597 Customer Support: [wearily] Mr. Whitmore, the board meeting on December 3rd at 7 PM will review your case. [more sternly] You'll need to bring documentation, photos, and your member ID card WB-19847. [sighs heavily] The fines currently total $1,750 if not resolved.
+Character 1: [condescendingly] I shall present my dissertation-length rebuttal with forty-seven footnotes and appendices A through K. [mutters] The board's interpretation of "earth tones" in Section 9.4 is laughably provincial—beige and taupe aren't the only colors found in nature, you know.
 
-Customer Support: D8: [trying to stay professional] Sir, I'm also seeing complaint R-2024-445 about your wind chimes. [uncomfortably] Apparently, they're made from vintage typewriter keys? [more directly] The decibel level exceeded 55dB according to Mrs. Henderson's readings at 2847 Willowbrook.
-599 Character 1: [outraged] Those are antique Remington keys from 1923! [scoffs] Mrs. Henderson's sound meter app on her phone is hardly calibrated to ISO standards. [sarcastically] Perhaps we should discuss her violation—that ghastly pink flamingo clearly contradicts ordinance 12.6C.
+598 Customer Support: [trying to stay professional] Sir, I'm also seeing complaint R-2024-445 about your wind chimes. [uncomfortably] Apparently, they're made from vintage typewriter keys? [more directly] The decibel level exceeded 55dB according to Mrs. Henderson's readings at 2847 Willowbrook.
+Character 1: [outraged] Those are antique Remington keys from 1923! [scoffs] Mrs. Henderson's sound meter app on her phone is hardly calibrated to ISO standards. [sarcastically] Perhaps we should discuss her violation—that ghastly pink flamingo clearly contradicts ordinance 12.6C.
 
-Customer Support: D10: [exhausted] I'll note your counter-complaint as CC-8924 for the board's review. [sighs deeply] Please just... bring all your documentation to Conference Room B. [resigned] We'll need three copies of everything, collated and bound per protocol 2.1 in the procedures manual.
+599 Customer Support: [exhausted] I'll note your counter-complaint as CC-8924 for the board's review. [sighs deeply] Please just... bring all your documentation to Conference Room B. [resigned] We'll need three copies of everything, collated and bound per protocol 2.1 in the procedures manual.
 
 --- CS NO-ALPHANUMERIC ---
 Script: a3b5253a | Role: Customer Support
