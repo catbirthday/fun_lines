@@ -97,23 +97,23 @@ Character 2: [wearily] But we're not in other countries, are we? [firmly] We're 
 Character 2: [walking away] Fiscal responsibility? [disgusted whisper] You're just cheap, Jeremy. [Hollow laugh] And lonely—because nobody wants to be seen in public with someone who treats people like they're beneath them. Goodbye.
 
 --- CS ALPHANUMERIC ---
-Script: b45a9978 | Role: Character 1
+Script: b45a9978 | Role: Customer Support
 
-366 Character 1: [skeptical] Yeah, hi, I'm calling about your, uh, international plans? [pause] My account number is 4-4-7-8-9-2-K-L-M. [suspiciously] I saw online you have something for $45 a month, but that seems way too cheap for unlimited calling.
+ Character 1: [skeptical] Yeah, hi, I'm calling about your, uh, international plans? [pause] My account number is 4-4-7-8-9-2-K-L-M. [suspiciously] I saw online you have something for $45 a month, but that seems way too cheap for unlimited calling.
 
-Customer Support: D2: [cheerfully] Good afternoon! Let me pull up your account right away. [professionally] Yes, I see you're currently on our Basic North America plan at $62.99. [enthusiastically] The Global Connect 45 plan is absolutely legitimate—it covers 127 countries with unlimited talk and text!
-367 Character 1: [doubtfully] Okay, but like, what's the catch here? [more insistently] Every time I've switched plans before, you guys hit me with—I don't know—activation fees, roaming charges. [sighs] Last year's "upgrade" cost me an extra $230 somehow.
+366 Customer Support: D2: [cheerfully] Good afternoon! Let me pull up your account right away. [professionally] Yes, I see you're currently on our Basic North America plan at $62.99. [enthusiastically] The Global Connect 45 plan is absolutely legitimate—it covers 127 countries with unlimited talk and text!
+ Character 1: [doubtfully] Okay, but like, what's the catch here? [more insistently] Every time I've switched plans before, you guys hit me with—I don't know—activation fees, roaming charges. [sighs] Last year's "upgrade" cost me an extra $230 somehow.
 
-Customer Support: D4: [sympathetically] I completely understand your concerns, and I appreciate you bringing that up. [reassuringly] The only additional fee would be a one-time $15 plan change charge. [more confidently] No hidden roaming fees within those 127 covered countries, I promise you that.
-368 Character 1: [sarcastically] Right, so what about data though? [increasingly frustrated] Because my daughter's studying in Prague—address is 42 Nerudova Street, apartment 3-B—and she's constantly on Instagram. [groans] Don't tell me it's like 50 megabytes or something ridiculous.
+367 Customer Support: D4: [sympathetically] I completely understand your concerns, and I appreciate you bringing that up. [reassuringly] The only additional fee would be a one-time $15 plan change charge. [more confidently] No hidden roaming fees within those 127 covered countries, I promise you that.
+ Character 1: [sarcastically] Right, so what about data though? [increasingly frustrated] Because my daughter's studying in Prague—address is 42 Nerudova Street, apartment 3-B—and she's constantly on Instagram. [groans] Don't tell me it's like 50 megabytes or something ridiculous.
 
-Customer 1 D6: [patiently] Actually, the plan includes 15 gigabytes of high-speed international data per month. [helpfully] After that, it drops to 2G speeds, but there's no overage charges. [more warmly] For Prague specifically, we partner with T-Mobile CZ, so coverage should be excellent.
-369 Character 1: [surprised] Wait, fifteen gigs? [cautiously optimistic] That's... actually not terrible. [quickly] But hang on, does this work immediately, or is there some waiting period? Because she leaves Thursday, flight UA-8847 at 2:30 PM.
+368 Customer Support: [patiently] Actually, the plan includes 15 gigabytes of high-speed international data per month. [helpfully] After that, it drops to 2G speeds, but there's no overage charges. [more warmly] For Prague specifically, we partner with T-Mobile CZ, so coverage should be excellent.
+ Character 1: [surprised] Wait, fifteen gigs? [cautiously optimistic] That's... actually not terrible. [quickly] But hang on, does this work immediately, or is there some waiting period? Because she leaves Thursday, flight UA-8847 at 2:30 PM.
 
-Customer Support: D8: [efficiently] The plan activates within 2 to 4 hours after confirmation. [encouragingly] Since today's Monday, you'd have plenty of time before Thursday. [professionally] I just need to verify—can you confirm the last four digits of the payment card ending in 6789?
-370 Character 1: [hesitantly] It's, um... [pause] actually that card expired. [annoyed] Hold on, let me get the new one—it's 9-0-3-4. [more cooperatively] Look, if this really is $45 flat, no surprises, then yeah, let's do it.
+369 Customer Support: D8: [efficiently] The plan activates within 2 to 4 hours after confirmation. [encouragingly] Since today's Monday, you'd have plenty of time before Thursday. [professionally] I just need to verify—can you confirm the last four digits of the payment card ending in 6789?
+ Character 1: [hesitantly] It's, um... [pause] actually that card expired. [annoyed] Hold on, let me get the new one—it's 9-0-3-4. [more cooperatively] Look, if this really is $45 flat, no surprises, then yeah, let's do it.
 
-Customer Support: D10: [enthusiastically] Perfect, I'm processing that change right now! [attentively] Your confirmation number will be TRX-90045-BCDE. [warmly] You'll receive a text to your phone ending in 3421, and an email with all the plan details within 15 minutes.
+370 Customer Support: [enthusiastically] Perfect, I'm processing that change right now! [attentively] Your confirmation number will be TRX-90045-BCDE. [warmly] You'll receive a text to your phone ending in 3421, and an email with all the plan details within 15 minutes.
 
 --- CS NO-ALPHANUMERIC ---
 Script: bfd2cb03 | Role: Customer Support
