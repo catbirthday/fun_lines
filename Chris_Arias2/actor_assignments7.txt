@@ -150,36 +150,36 @@ Character 1: [bitterly] Fine by me! [quick tempo] I'll save money on both the ti
 Script: 09fed1a4_script | Role: Character 2 (B)
 
 Character 1: You laughed.
-1 Character 2: Wait, what? I—no no no, I wasn't laughing AT you, I swear. It was just—the timing was so weird and I didn't know what else to—
+574 Character 2: Wait, what? I—no no no, I wasn't laughing AT you, I swear. It was just—the timing was so weird and I didn't know what else to—
 Character 1: I was telling you about my dad's diagnosis.
-2 Character 2: Oh god. Oh god, I know. I'm—I'm literally the worst person alive right now. It wasn't—I wasn't laughing at that, I promise you. My brain just like... short-circuited? [nervous laugh] Sorry, that's not funny either.
+575 Character 2: Oh god. Oh god, I know. I'm—I'm literally the worst person alive right now. It wasn't—I wasn't laughing at that, I promise you. My brain just like... short-circuited? [nervous laugh] Sorry, that's not funny either.
 Character 1: Right.
-3 Character 2: No, please—just let me explain. You know how I get when I'm uncomfortable, right? Like, I do that stupid nervous laugh thing when I don't know how to—when things get too heavy and I just... I panicked.
+576 Character 2: No, please—just let me explain. You know how I get when I'm uncomfortable, right? Like, I do that stupid nervous laugh thing when I don't know how to—when things get too heavy and I just... I panicked.
 Character 1: So my dad having cancer made you uncomfortable.
-4 Character 2: That's not—okay, yes, but not like that. Not like I didn't wanna hear it or anything. I just didn't know what to say and my body just—it just reacted before my brain could catch up, y'know? I'm so, so sorry.
+577 Character 2: That's not—okay, yes, but not like that. Not like I didn't wanna hear it or anything. I just didn't know what to say and my body just—it just reacted before my brain could catch up, y'know? I'm so, so sorry.
 Character 1: I needed you to be there for me.
-5 Character 2: I know. I know and I completely failed you and I—[sigh] honestly, I've been replaying it in my head all night. Like, the look on your face when I... god, I'm such an idiot.
+578 Character 2: I know. I know and I completely failed you and I—[sigh] honestly, I've been replaying it in my head all night. Like, the look on your face when I... god, I'm such an idiot.
 Character 1: Yeah. You are.
-6 Character 2: I really wanna fix this. I mean, I dunno if I even can, but like—you're one of my best friends and I just... I reacted wrong. Sometimes I laugh when I'm supposed to cry, it's this weird thing I've always—that's not an excuse though.
+579 Character 2: I really wanna fix this. I mean, I dunno if I even can, but like—you're one of my best friends and I just... I reacted wrong. Sometimes I laugh when I'm supposed to cry, it's this weird thing I've always—that's not an excuse though.
 Character 1: It's not.
-7 Character 2: No, it's really not. And I should've—I should've just shut up and hugged you or something. Literally anything would've been better than what I did. Your dad's gonna be okay though, right? I mean—sorry, is it okay to ask that?
+580 Character 2: No, it's really not. And I should've—I should've just shut up and hugged you or something. Literally anything would've been better than what I did. Your dad's gonna be okay though, right? I mean—sorry, is it okay to ask that?
 Character 1: I don't know. That's what's scary.
-8 Character 2: Yeah... yeah, of course it is. [quieter] I'm really, really sorry about your dad. And about being the world's worst friend when you needed me.
+581 Character 2: Yeah... yeah, of course it is. [quieter] I'm really, really sorry about your dad. And about being the world's worst friend when you needed me.
 Character 1: You're not the world's worst friend. Just... really bad timing.
-9 Character 2: The absolute worst timing. But I'm—I'm here now, okay? Like, actually here. Whatever you need, whenever you need it. I promise I won't laugh or make it weird or—I'll just listen. I can do that.
+582 Character 2: The absolute worst timing. But I'm—I'm here now, okay? Like, actually here. Whatever you need, whenever you need it. I promise I won't laugh or make it weird or—I'll just listen. I can do that.
 Character 1: Okay. Maybe we can talk tomorrow.
-10 Character 2: Yeah, tomorrow. Definitely. And um... thank you. For like, not completely writing me off. I know I don't deserve—just, thank you. And I really am sorry.
+583 Character 2: Yeah, tomorrow. Definitely. And um... thank you. For like, not completely writing me off. I know I don't deserve—just, thank you. And I really am sorry.
 
 --- BASIC SCENARIOS ---
 
 ============================================================
-ITEM 11 - MONOLOGUE (276 words)
+ITEM 584 - MONOLOGUE (276 words)
 Source: 1b39a548
 ============================================================
 
 This must be read out in a single delivery as one file
 
-11 SCENARIO: Casually mentioning a text tone they heard, then checking their phone, then seeing a wall of texts from someone upset they haven't responded, ending in message-avalanche dread
+584 SCENARIO: Casually mentioning a text tone they heard, then checking their phone, then seeing a wall of texts from someone upset they haven't responded, ending in message-avalanche dread
 ==================================================
 
 [casual]
@@ -202,13 +202,13 @@ I don't even know what the, uh, what the original thing was! It's just— it's j
 
 
 ============================================================
-ITEM 12 - MONOLOGUE (247 words)
+ITEM 585 - MONOLOGUE (247 words)
 Source: 1b57225d
 ============================================================
 
 This must be read out in a single delivery as one file
 
-12 SCENARIO: Frustrated about a rainy wedding, then the venue looks magical with the rain
+585 SCENARIO: Frustrated about a rainy wedding, then the venue looks magical with the rain
 ==================================================
 
 [frustrated]
@@ -231,13 +231,13 @@ Sarah looked radiant. Absolutely radiant. Sometimes the imperfect moments are th
 
 
 ============================================================
-ITEM 13 - MONOLOGUE (256 words)
+ITEM 586 - MONOLOGUE (256 words)
 Source: 1b689def
 ============================================================
 
 This must be read out in a single delivery as one file
 
-13 SCENARIO: Excited for a beach day, then checks weather and it's supposed to rain, but then sees the rain clears by noon
+586 SCENARIO: Excited for a beach day, then checks weather and it's supposed to rain, but then sees the rain clears by noon
 ==================================================
 
 [excited]
@@ -260,13 +260,13 @@ Okay so we can still do this! We just go later, like leave at eleven-thirty inst
 
 
 ============================================================
-ITEM 14 - MONOLOGUE (235 words)
+ITEM 587 - MONOLOGUE (235 words)
 Source: 1b68d7a0
 ============================================================
 
 This must be read out in a single delivery as one file
 
-14 SCENARIO: Complaining about back pain, then stretches while talking and it cracks and feels better
+587 SCENARIO: Complaining about back pain, then stretches while talking and it cracks and feels better
 ==================================================
 
 [exhausted]
@@ -289,13 +289,13 @@ I was literally about to ask you for the name of your massage therapist and now 
 
 
 ============================================================
-ITEM 15 - MONOLOGUE (273 words)
+ITEM 588 - MONOLOGUE (273 words)
 Source: 1b9714b2
 ============================================================
 
 This must be read out in a single delivery as one file
 
-15 SCENARIO: Lightly joking about a sound their body made, then noticing it again, then getting increasingly convinced something is wrong, spiraling into body anxiety
+588 SCENARIO: Lightly joking about a sound their body made, then noticing it again, then getting increasingly convinced something is wrong, spiraling into body anxiety
 ==================================================
 
 [casual] [light laugh]
@@ -318,13 +318,13 @@ I can't stop listening for it now. Every little sound my body makes — is that 
 
 
 ============================================================
-ITEM 16 - MONOLOGUE (264 words)
+ITEM 589 - MONOLOGUE (264 words)
 Source: 1bb28772
 ============================================================
 
 This must be read out in a single delivery as one file
 
-16 SCENARIO: Excited about a new apartment, then worried about the neighborhood, then the neighbors are wonderful
+589 SCENARIO: Excited about a new apartment, then worried about the neighborhood, then the neighbors are wonderful
 ==================================================
 
 [excited]
@@ -347,13 +347,13 @@ Okay so that was my upstairs neighbor! She brought me cookies and a little plant
 
 
 ============================================================
-ITEM 17 - MONOLOGUE (266 words)
+ITEM 590 - MONOLOGUE (266 words)
 Source: 1c17cdf0
 ============================================================
 
 This must be read out in a single delivery as one file
 
-17 SCENARIO: Lightheartedly talking about a recipe substitution they made, then tasting the food while talking, then realizing it's inedible, ending in cooking failure despair
+590 SCENARIO: Lightheartedly talking about a recipe substitution they made, then tasting the food while talking, then realizing it's inedible, ending in cooking failure despair
 ==================================================
 
 [casual] [light]
@@ -379,13 +379,13 @@ I can't bake! I literally cannot bake! My mom makes this recipe blindfolded and 
 
 
 ============================================================
-ITEM 18 - MONOLOGUE (243 words)
+ITEM 591 - MONOLOGUE (243 words)
 Source: 1c51b4a9
 ============================================================
 
 This must be read out in a single delivery as one file
 
-18 SCENARIO: Annoyed about a wrong answer on a test, then sees the grading was wrong and they got it right
+591 SCENARIO: Annoyed about a wrong answer on a test, then sees the grading was wrong and they got it right
 ==================================================
 
 [frustrated]
@@ -408,13 +408,13 @@ Okay yeah, no, looking at it now that's definitely— that's definitely a check.
 
 
 ============================================================
-ITEM 19 - MONOLOGUE (252 words)
+ITEM 592 - MONOLOGUE (252 words)
 Source: 1cdb7fc4
 ============================================================
 
 This must be read out in a single delivery as one file
 
-19 SCENARIO: Casually recounting an argument they overheard, then realizing who was arguing, then processing that it was about them, spiraling into paranoid confusion
+592 SCENARIO: Casually recounting an argument they overheard, then realizing who was arguing, then processing that it was about them, spiraling into paranoid confusion
 ==================================================
 
 [casual]
@@ -440,13 +440,13 @@ Oh my god, what if everyone already knows? What if that's why Jessica was being 
 
 
 ============================================================
-ITEM 20 - MONOLOGUE (295 words)
+ITEM 593 - MONOLOGUE (295 words)
 Source: 1d175a83
 ============================================================
 
 This must be read out in a single delivery as one file
 
-20 SCENARIO: Casually describing a spare key they thought they hid well, then checking, then finding it's gone and they don't know when it disappeared, spiraling into home security panic
+593 SCENARIO: Casually describing a spare key they thought they hid well, then checking, then finding it's gone and they don't know when it disappeared, spiraling into home security panic
 ==================================================
 
 [casual]
@@ -472,13 +472,13 @@ What if they're waiting for us to leave? What if they know our schedule? [voice 
 
 
 ============================================================
-ITEM 21 - MONOLOGUE (244 words)
+ITEM 594 - MONOLOGUE (244 words)
 Source: 1d260d0a
 ============================================================
 
 This must be read out in a single delivery as one file
 
-21 SCENARIO: Mad about a store being out of stock, then an employee finds one in the back
+594 SCENARIO: Mad about a store being out of stock, then an employee finds one in the back
 ==================================================
 
 [frustrated]
@@ -501,13 +501,13 @@ She was so sweet about it too, and I realized I'd been like— I'd been taking m
 
 
 ============================================================
-ITEM 22 - MONOLOGUE (263 words)
+ITEM 595 - MONOLOGUE (263 words)
 Source: 1d4573e2
 ============================================================
 
 This must be read out in a single delivery as one file
 
-22 SCENARIO: Annoyed about a noisy neighbor's dog, then the neighbor comes over with cookies to apologize
+595 SCENARIO: Annoyed about a noisy neighbor's dog, then the neighbor comes over with cookies to apologize
 ==================================================
 
 [irritated]
@@ -533,13 +533,13 @@ That's... actually really sweet of her. I might have judged this whole situation
 
 
 ============================================================
-ITEM 23 - MONOLOGUE (245 words)
+ITEM 596 - MONOLOGUE (245 words)
 Source: 1d4fce3b
 ============================================================
 
 This must be read out in a single delivery as one file
 
-23 SCENARIO: Upset about a harsh critique, then using it to make real improvements
+596 SCENARIO: Upset about a harsh critique, then using it to make real improvements
 ==================================================
 
 [bitter] [frustrated]
@@ -562,13 +562,13 @@ Oh no, she's right. This paragraph here, I literally have no idea what I was try
 
 
 ============================================================
-ITEM 24 - MONOLOGUE (242 words)
+ITEM 597 - MONOLOGUE (242 words)
 Source: 1d885315
 ============================================================
 
 This must be read out in a single delivery as one file
 
-24 SCENARIO: Mad about an overcharge on their bill, then while ranting realizes they forgot about a subscription they signed up for
+597 SCENARIO: Mad about an overcharge on their bill, then while ranting realizes they forgot about a subscription they signed up for
 ==================================================
 
 [frustrated]
@@ -591,13 +591,13 @@ And then I... completely forgot about it. [nervous laugh] So I've been paying fo
 
 
 ============================================================
-ITEM 25 - MONOLOGUE (258 words)
+ITEM 598 - MONOLOGUE (258 words)
 Source: 1da39637
 ============================================================
 
 This must be read out in a single delivery as one file
 
-25 SCENARIO: Lightheartedly mentioning a cold sore they thought was healing, then touching it, then realizing it's worse and they've probably spread it, spiraling into contagion guilt
+598 SCENARIO: Lightheartedly mentioning a cold sore they thought was healing, then touching it, then realizing it's worse and they've probably spread it, spiraling into contagion guilt
 ==================================================
 
 [casual]
@@ -619,13 +619,13 @@ I just— I just touched it. With my finger. The same finger I've been, um, I've
 Oh my god, I've been, um, I've been going around all day thinking I was fine and I've probably been spreading this to, like, everyone! The door handles, the— the pen I borrowed, I even, uh, I even high-fived Sarah earlier! [whimper] What have I done?
 
 ============================================================
-ITEM 26 - MONOLOGUE SELFTALK (206 words)
+ITEM 599 - MONOLOGUE SELFTALK (206 words)
 Source: e58fa57f
 ============================================================
 
 This must be read out in a single delivery as one file
 
-26 SCENARIO: trying to figure out which charger goes to what
+599 SCENARIO: trying to figure out which charger goes to what
 ==================================================
 
 [muttering]
@@ -645,13 +645,13 @@ You know what? I'm just gonna start plugging things in and see what happens. Ver
 
 
 ============================================================
-ITEM 27 - MONOLOGUE SELFTALK (249 words)
+ITEM 600 - MONOLOGUE SELFTALK (249 words)
 Source: e7068acb
 ============================================================
 
 This must be read out in a single delivery as one file
 
-27 SCENARIO: discovering the milk has gone bad after pouring it on cereal
+600 SCENARIO: discovering the milk has gone bad after pouring it on cereal
 ==================================================
 
 [cheerful]
@@ -674,13 +674,13 @@ Right, so, trash it is. [exhale] Guess I'm having toast for breakfast. Or, um, d
 
 
 ============================================================
-ITEM 28 - MONOLOGUE SELFTALK (226 words)
+ITEM 601 - MONOLOGUE SELFTALK (226 words)
 Source: e8b456c9
 ============================================================
 
 This must be read out in a single delivery as one file
 
-28 SCENARIO: attempting to open a difficult jar
+601 SCENARIO: attempting to open a difficult jar
 ==================================================
 
 [muttering]
@@ -700,13 +700,13 @@ Oh wait, actually— [grunt of effort] there we go! Finally. See? I just needed 
 
 
 ============================================================
-ITEM 29 - MONOLOGUE SELFTALK (205 words)
+ITEM 602 - MONOLOGUE SELFTALK (205 words)
 Source: e963223b
 ============================================================
 
 This must be read out in a single delivery as one file
 
-29 SCENARIO: trying to remember where they parked
+602 SCENARIO: trying to remember where they parked
 ==================================================
 
 [muttering]
@@ -726,13 +726,13 @@ Wait wait wait. Red Honda. There. Right there behind the, um, the big SUV. [laug
 
 
 ============================================================
-ITEM 30 - MONOLOGUE SELFTALK (207 words)
+ITEM 603 - MONOLOGUE SELFTALK (207 words)
 Source: e9826e67
 ============================================================
 
 This must be read out in a single delivery as one file
 
-30 SCENARIO: debating whether to ask for directions or keep trying
+603 SCENARIO: debating whether to ask for directions or keep trying
 ==================================================
 
 [muttering]
@@ -752,13 +752,13 @@ Although, I mean, five more minutes of this and I'm gonna be late anyway, so may
 
 
 ============================================================
-ITEM 31 - MONOLOGUE SELFTALK (204 words)
+ITEM 604 - MONOLOGUE SELFTALK (204 words)
 Source: eb3844f5
 ============================================================
 
 This must be read out in a single delivery as one file
 
-31 SCENARIO: waiting for their turn at the DMV
+604 SCENARIO: waiting for their turn at the DMV
 ==================================================
 
 [muttering]
@@ -778,13 +778,13 @@ Okay, so maybe this won't be so bad. I can just, uh, I can just catch up on podc
 
 
 ============================================================
-ITEM 32 - MONOLOGUE SELFTALK (204 words)
+ITEM 605 - MONOLOGUE SELFTALK (204 words)
 Source: ec63c99b
 ============================================================
 
 This must be read out in a single delivery as one file
 
-32 SCENARIO: discovering the parking meter only takes coins
+605 SCENARIO: discovering the parking meter only takes coins
 ==================================================
 
 [muttering]
@@ -807,13 +807,13 @@ Unless I just... risk it? How often do they actually check these things anyway..
 
 
 ============================================================
-ITEM 33 - MONOLOGUE SELFTALK (228 words)
+ITEM 606 - MONOLOGUE SELFTALK (228 words)
 Source: efaad660
 ============================================================
 
 This must be read out in a single delivery as one file
 
-33 SCENARIO: waiting for the microwave while hungry
+606 SCENARIO: waiting for the microwave while hungry
 ==================================================
 
 [muttering]
@@ -836,13 +836,13 @@ You know what, one minute left. I can do one minute. I'm an adult, I can wait si
 
 
 ============================================================
-ITEM 34 - MONOLOGUE SELFTALK (210 words)
+ITEM 607 - MONOLOGUE SELFTALK (210 words)
 Source: efb52d5d
 ============================================================
 
 This must be read out in a single delivery as one file
 
-34 SCENARIO: waiting for the elevator that seems stuck on another floor
+607 SCENARIO: waiting for the elevator that seems stuck on another floor
 ==================================================
 
 [muttering]
@@ -862,13 +862,13 @@ Oh! There it goes. Three... two... okay, we're in business. See? Sometimes you j
 
 
 ============================================================
-ITEM 35 - MONOLOGUE SELFTALK (197 words)
+ITEM 608 - MONOLOGUE SELFTALK (197 words)
 Source: f18aeb0f
 ============================================================
 
 This must be read out in a single delivery as one file
 
-35 SCENARIO: waiting in a long checkout line that isn't moving
+608 SCENARIO: waiting in a long checkout line that isn't moving
 ==================================================
 
 [muttering]
@@ -888,13 +888,13 @@ Okay, so I guess we're all just, um, we're all just standing here now. Living ou
 
 
 ============================================================
-ITEM 36 - MONOLOGUE SELFTALK (220 words)
+ITEM 609 - MONOLOGUE SELFTALK (220 words)
 Source: f3f8dd69
 ============================================================
 
 This must be read out in a single delivery as one file
 
-36 SCENARIO: noticing they have something in their teeth
+609 SCENARIO: noticing they have something in their teeth
 ==================================================
 
 [muttering]
@@ -914,13 +914,13 @@ Right. Bathroom. I need to just, um, just go deal with this like a normal person
 
 
 ============================================================
-ITEM 37 - MONOLOGUE SELFTALK (241 words)
+ITEM 610 - MONOLOGUE SELFTALK (241 words)
 Source: f410bee5
 ============================================================
 
 This must be read out in a single delivery as one file
 
-37 SCENARIO: debating whether to ask for extra napkins
+610 SCENARIO: debating whether to ask for extra napkins
 ==================================================
 
 [muttering to self]
@@ -940,13 +940,13 @@ Okay, okay, I'm just— I'm just gonna go for it. Worst case scenario, I eat thi
 
 
 ============================================================
-ITEM 38 - MONOLOGUE SELFTALK (200 words)
+ITEM 611 - MONOLOGUE SELFTALK (200 words)
 Source: f667ecd3
 ============================================================
 
 This must be read out in a single delivery as one file
 
-38 SCENARIO: deciding whether an email sounds too passive aggressive
+611 SCENARIO: deciding whether an email sounds too passive aggressive
 ==================================================
 
 [muttering]
@@ -969,13 +969,13 @@ Okay, I'm just— I'm just gonna send it. It's fine. It's, uh, it's professional
 
 
 ============================================================
-ITEM 39 - MONOLOGUE SELFTALK (204 words)
+ITEM 612 - MONOLOGUE SELFTALK (204 words)
 Source: f68e4c19
 ============================================================
 
 This must be read out in a single delivery as one file
 
-39 SCENARIO: realizing they left their loyalty card at home
+612 SCENARIO: realizing they left their loyalty card at home
 ==================================================
 
 [muttering]
