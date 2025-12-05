@@ -172,23 +172,23 @@ Character 2: [relieved] Yes, God, yes. [warmly] Blueberry pancakes with extra wh
 Character 2: [quietly firm] We did good, Danny. [more emotional] She would've been proud. [Shaky exhale] Come on, little brother—let's go eat too many pancakes and cry into our coffee like real men.
 
 --- CS ALPHANUMERIC ---
-Script: 87bf17c8 | Role: Character 1
+Script: 87bf17c8 | Role: Customer Support
 
-555 Character 1: [gruff] Yeah, hello, this is Harold Brennan calling about my mother, Ethel Brennan, [raising voice] she's in room 247-B. [clears throat] I need to speak to someone immediately about the, uh, the absolutely unacceptable conditions she's been subjected to.
+ Character 1: [gruff] Yeah, hello, this is Harold Brennan calling about my mother, Ethel Brennan, [raising voice] she's in room 247-B. [clears throat] I need to speak to someone immediately about the, uh, the absolutely unacceptable conditions she's been subjected to.
 
-Customer Support: D2: [professionally] Good afternoon, Mr. Brennan, this is Sarah from Willowbrook Care Center. [concerned] I'm sorry to hear you have concerns. [more gently] Could you please verify your mother's patient ID number—it should start with WB2024—so I can pull up her file?
-556 Character 1: [impatiently] It's WB2024-8847-J, for crying out loud. [bitter] She called me yesterday saying nobody's changed her bedsheets in over a week, [getting louder] and the food's been cold every single meal since Tuesday!
+555 Customer Support: D2: [professionally] Good afternoon, Mr. Brennan, this is Sarah from Willowbrook Care Center. [concerned] I'm sorry to hear you have concerns. [more gently] Could you please verify your mother's patient ID number—it should start with WB2024—so I can pull up her file?
+ Character 1: [impatiently] It's WB2024-8847-J, for crying out loud. [bitter] She called me yesterday saying nobody's changed her bedsheets in over a week, [getting louder] and the food's been cold every single meal since Tuesday!
 
-Customer Support: D4: [apologetically] Mr. Brennan, I sincerely apologize for these issues. [typing sounds] I'm looking at her care log right now, and—[pause]—well, I do see a notation here. [more cautiously] Could you tell me which staff members she mentioned specifically?
-557 Character 1: [sarcastically] Oh, she mentioned plenty—that nurse, uh, Rodriguez or Ramirez, badge number 4-5-something. [sighs heavily] Look, we're paying $8,750 a month for proper care, [more forcefully] not for her to sit in filth!
+556 Customer Support: D4: [apologetically] Mr. Brennan, I sincerely apologize for these issues. [typing sounds] I'm looking at her care log right now, and—[pause]—well, I do see a notation here. [more cautiously] Could you tell me which staff members she mentioned specifically?
+ Character 1: [sarcastically] Oh, she mentioned plenty—that nurse, uh, Rodriguez or Ramirez, badge number 4-5-something. [sighs heavily] Look, we're paying $8,750 a month for proper care, [more forcefully] not for her to sit in filth!
 
-Customer Support: D6: [defensive] Sir, I understand your frustration completely. [more firmly] However, our records indicate housekeeping visited room 247-B on Monday at 2:15 PM and Wednesday at 3:30. [measured tone] Perhaps there's been some miscommunication with your mother?
-558 Character 1: [outraged] Miscommunication? [scoffs] My mother's sharp as a tack—she's got her doctorate from Harvard, for God's sake! [accusingly] Are you suggesting she's lying about the neglect at your establishment?
+557 Customer Support: D6: [defensive] Sir, I understand your frustration completely. [more firmly] However, our records indicate housekeeping visited room 247-B on Monday at 2:15 PM and Wednesday at 3:30. [measured tone] Perhaps there's been some miscommunication with your mother?
+ Character 1: [outraged] Miscommunication? [scoffs] My mother's sharp as a tack—she's got her doctorate from Harvard, for God's sake! [accusingly] Are you suggesting she's lying about the neglect at your establishment?
 
-Customer Support: D8: [quickly] No, no, absolutely not, Mr. Brennan. [more soothingly] I'm simply trying to understand the full situation here. [professionally] Would you like me to schedule an immediate meeting with our director, Mrs. Chen, tomorrow at, say, 10:30 AM?
-559 Character 1: [grudgingly] Fine, but I'm also contacting the state ombudsman at 1-800-555-CARE. [threatening] My lawyer brother already has your facility's license number—HC-7789-MA—ready for the complaint. [sighs] This better get fixed immediately.
+558 Customer Support: D8: [quickly] No, no, absolutely not, Mr. Brennan. [more soothingly] I'm simply trying to understand the full situation here. [professionally] Would you like me to schedule an immediate meeting with our director, Mrs. Chen, tomorrow at, say, 10:30 AM?
+ Character 1: [grudgingly] Fine, but I'm also contacting the state ombudsman at 1-800-555-CARE. [threatening] My lawyer brother already has your facility's license number—HC-7789-MA—ready for the complaint. [sighs] This better get fixed immediately.
 
-Customer Support: D10: [urgently] Mr. Brennan, please, let's resolve this internally first. [more earnestly] I'm escalating this right now to our quality assurance team, case number QA-2024-11-0892. [reassuring] We take every concern seriously, and I promise we'll have answers by tomorrow morning.
+559 Customer Support: D10: [urgently] Mr. Brennan, please, let's resolve this internally first. [more earnestly] I'm escalating this right now to our quality assurance team, case number QA-2024-11-0892. [reassuring] We take every concern seriously, and I promise we'll have answers by tomorrow morning.
 
 --- CS NO-ALPHANUMERIC ---
 Script: 6f44b3c8 | Role: Customer Support
