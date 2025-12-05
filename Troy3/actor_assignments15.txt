@@ -94,38 +94,38 @@ Character 2: [barely audible] Mine won't even get to see me get married. [strong
 Character 2: [grateful tone] You're the best friend anyone could ask for, seriously. [more brightly] Now let's watch those proposal fails before we flood your apartment! [Giggling] Nothing says emotional recovery quite like watching someone drop the ring in the ocean, right?
 
 --- CS ALPHANUMERIC ---
-Script: a3807255 | Role: Character 1
+Script: a3807255 | Role: CS
 
-1206 Character 1: [frustrated] Your Honor, on March 15th at 2:47 PM, Mr. Davidson here changed the locks on my apartment at 4821 Oak Street—while I was at work! [voice breaking] I came home to find all my belongings, my grandmother's china, just... [sighs heavily] dumped on the sidewalk.
+ Character 1: [frustrated] Your Honor, on March 15th at 2:47 PM, Mr. Davidson here changed the locks on my apartment at 4821 Oak Street—while I was at work! [voice breaking] I came home to find all my belongings, my grandmother's china, just... [sighs heavily] dumped on the sidewalk.
 
-Customer Support: D2: [defensively] The tenant hadn't paid rent for three months, Your Honor. [more firmly] I sent notices on January 10th, February 8th, and March 1st—all certified mail with tracking numbers RR-4478-B, RR-5502-C, and [clears throat] RR-6891-A.
-1207 Character 1: [outraged] Three months? I paid $1,850 on January 5th, check number 3021! [louder] February's payment was rejected because—because you claimed insufficient funds, but my bank statement shows [voice shaking] the money was there!
+1206 Customer Support: D2: [defensively] The tenant hadn't paid rent for three months, Your Honor. [more firmly] I sent notices on January 10th, February 8th, and March 1st—all certified mail with tracking numbers RR-4478-B, RR-5502-C, and [clears throat] RR-6891-A.
+ Character 1: [outraged] Three months? I paid $1,850 on January 5th, check number 3021! [louder] February's payment was rejected because—because you claimed insufficient funds, but my bank statement shows [voice shaking] the money was there!
 
-Customer Support: D4: [dismissively] The lease clearly states in Section 14-B that any bounced payment incurs a $150 fee. [more sternly] When she didn't pay the penalty by February 20th, that constituted breach of contract under provision 7-A-2.
-1208 Character 1: [incredulous] You never told me about any penalty fee! [getting louder] And even if—even if there was one, that doesn't give you the right to throw my disabled mother's medical equipment, her oxygen tank serial number OX-78234, onto the street! [voice cracking]
+1207 Customer Support: D4: [dismissively] The lease clearly states in Section 14-B that any bounced payment incurs a $150 fee. [more sternly] When she didn't pay the penalty by February 20th, that constituted breach of contract under provision 7-A-2.
+ Character 1: [incredulous] You never told me about any penalty fee! [getting louder] And even if—even if there was one, that doesn't give you the right to throw my disabled mother's medical equipment, her oxygen tank serial number OX-78234, onto the street! [voice cracking]
 
-Customer Support: D6: [impatiently] I followed proper procedure according to state statute 47-8-36. [sighs] Look, after multiple attempts to contact her at phone numbers ending in 4455 and 7891, I had no choice but to [more quietly] take action to protect my property.
-1209 Character 1: [desperately] Your Honor, those aren't even my phone numbers anymore—I updated my contact to 555-0122 in December! [pleading] He's been harassing me since I complained about the broken heater in unit 3B that he refused to fix for six weeks.
+1208 Customer Support: D6: [impatiently] I followed proper procedure according to state statute 47-8-36. [sighs] Look, after multiple attempts to contact her at phone numbers ending in 4455 and 7891, I had no choice but to [more quietly] take action to protect my property.
+ Character 1: [desperately] Your Honor, those aren't even my phone numbers anymore—I updated my contact to 555-0122 in December! [pleading] He's been harassing me since I complained about the broken heater in unit 3B that he refused to fix for six weeks.
 
-Customer Support: D8: [scoffing] Harassing? I made three legitimate maintenance visits! [more defensively] January 18th at 10 AM, January 25th at 2:30 PM, and—and February 2nd at [pauses] 9:15 AM, all documented in my maintenance log ML-2024-089.
-1210 Character 1: [sarcastically] Oh yes, "maintenance visits" where you'd bang on my door at midnight! [voice rising] My security camera footage from February 28th, timestamp 23:47:33, shows you trying to enter with [gasps] what looks like a crowbar!
+1209 Customer Support: D8: [scoffing] Harassing? I made three legitimate maintenance visits! [more defensively] January 18th at 10 AM, January 25th at 2:30 PM, and—and February 2nd at [pauses] 9:15 AM, all documented in my maintenance log ML-2024-089.
+ Character 1: [sarcastically] Oh yes, "maintenance visits" where you'd bang on my door at midnight! [voice rising] My security camera footage from February 28th, timestamp 23:47:33, shows you trying to enter with [gasps] what looks like a crowbar!
 
-Customer Support: D10: [angrily] That was a standard maintenance tool for the apartment 3A water leak! [groans] Your Honor, this tenant has filed seven—seven!—false complaints with the housing authority, case numbers HA-9901 through HA-9907, all dismissed as unfounded.
-1211 Character 1: [exasperated] False complaints? The mold in my bathroom tested positive for Stachybotrys, report number ENV-5543-X! [more emotionally] My four-year-old daughter has been sick since November, and you—you said it was just [mockingly] "a little moisture."
+1210 Customer Support: D10: [angrily] That was a standard maintenance tool for the apartment 3A water leak! [groans] Your Honor, this tenant has filed seven—seven!—false complaints with the housing authority, case numbers HA-9901 through HA-9907, all dismissed as unfounded.
+ Character 1: [exasperated] False complaints? The mold in my bathroom tested positive for Stachybotrys, report number ENV-5543-X! [more emotionally] My four-year-old daughter has been sick since November, and you—you said it was just [mockingly] "a little moisture."
 
-Customer Support: D12: [frustrated] The inspection on December 12th by license number INS-77834-Q found no hazardous conditions. [louder] She's making things up because she wants to break her lease that doesn't expire until August 31st, 2024!
-1212 Character 1: [desperately] Your Honor, I have receipts—$342.50 for the hotel on March 15th, $1,200 for emergency storage unit A-44 at SecureStore, and [voice breaking] $500 to replace my daughter's medications that were destroyed in the rain!
+1211 Customer Support: D12: [frustrated] The inspection on December 12th by license number INS-77834-Q found no hazardous conditions. [louder] She's making things up because she wants to break her lease that doesn't expire until August 31st, 2024!
+ Character 1: [desperately] Your Honor, I have receipts—$342.50 for the hotel on March 15th, $1,200 for emergency storage unit A-44 at SecureStore, and [voice breaking] $500 to replace my daughter's medications that were destroyed in the rain!
 
-Customer Support: D14: [dismissively] If she had simply paid the $2,000 she owed by March 10th as agreed in our payment plan document PP-0234, none of—none of this would have happened. [sighs heavily] I'm a reasonable man, Your Honor.
-1213 Character 1: [incredulous] Payment plan? You mean that paper you shoved under my door at 11 PM with no signature line? [more firmly] The one that demanded I pay late fees from 2019 for apartment 2C—which I never even lived in?
+1212 Customer Support: D14: [dismissively] If she had simply paid the $2,000 she owed by March 10th as agreed in our payment plan document PP-0234, none of—none of this would have happened. [sighs heavily] I'm a reasonable man, Your Honor.
+ Character 1: [incredulous] Payment plan? You mean that paper you shoved under my door at 11 PM with no signature line? [more firmly] The one that demanded I pay late fees from 2019 for apartment 2C—which I never even lived in?
 
-Customer Support: D16: [defensively] Our records show account number TEN-8934-2C associated with her social security ending in 4456. [more quietly] Perhaps there was some, uh, administrative confusion, but [louder] she still violated the lease terms!
-1214 Character 1: [emotionally] Administrative confusion that left me and my daughter homeless for five nights! [voice cracking] The shelter at 892 Mission Boulevard was full, so we—we slept in my car, license plate 7G9-X24, [whispers] in twenty-degree weather.
+1213 Customer Support: D16: [defensively] Our records show account number TEN-8934-2C associated with her social security ending in 4456. [more quietly] Perhaps there was some, uh, administrative confusion, but [louder] she still violated the lease terms!
+ Character 1: [emotionally] Administrative confusion that left me and my daughter homeless for five nights! [voice cracking] The shelter at 892 Mission Boulevard was full, so we—we slept in my car, license plate 7G9-X24, [whispers] in twenty-degree weather.
 
-Customer Support: D18: [uncomfortably] Well, I—that's unfortunate, but the law allows for expedited eviction under emergency provision E-12. [more firmly] The water damage from her unit was affecting 3A and 3C below, causing thousands in damage!
-1215 Character 1: [angrily] What water damage? The only leak was from YOUR faulty pipes that burst on February 14th! [louder] The plumber's invoice PL-20240214-66 specifically states "landlord negligence" and—and "deferred maintenance since 2021"! [sighs heavily]
+1214 Customer Support: D18: [uncomfortably] Well, I—that's unfortunate, but the law allows for expedited eviction under emergency provision E-12. [more firmly] The water damage from her unit was affecting 3A and 3C below, causing thousands in damage!
+ Character 1: [angrily] What water damage? The only leak was from YOUR faulty pipes that burst on February 14th! [louder] The plumber's invoice PL-20240214-66 specifically states "landlord negligence" and—and "deferred maintenance since 2021"! [sighs heavily]
 
-Customer Support: D20: [quietly] Your Honor, I... [pauses] perhaps we could discuss a settlement. [more hopefully] Maybe if she agrees to vacate by April 30th and drops the countersuit CS-2024-0789, we could waive the remaining fees of [reluctantly] $3,847.
+1215 Customer Support: D20: [quietly] Your Honor, I... [pauses] perhaps we could discuss a settlement. [more hopefully] Maybe if she agrees to vacate by April 30th and drops the countersuit CS-2024-0789, we could waive the remaining fees of [reluctantly] $3,847.
 
 --- CS NO-ALPHANUMERIC ---
 Script: 5d15ed41 | Role: Customer Support
