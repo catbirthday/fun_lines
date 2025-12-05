@@ -148,19 +148,19 @@ Script: d305baa4 | Role: Character 1
 
 1144 Character 1: [confused] Excuse me, um, I'm trying to use this AR thing on my phone but—[frustrated sigh]—nothing's happening when I point it at product SKU-4478B. [hesitantly] Is there like a specific angle I need or something?
 
-Customer Support: D2: [cheerfully] Hello! I see you're having trouble with our AR feature. [reassuring tone] First, make sure you've enabled camera permissions in settings—that's under menu ID 3.2A. [helpfully] Are you seeing the blue scanning frame appear at all?
-1145 Character 1: [relieved] Oh wait, yeah, there's a frame now! [excitedly] But it keeps saying "calibration needed" and—[groans]—the percentage just stuck at 47%. Should I try moving to aisle 12-B instead where the lighting's better?
+1144 Customer Support: [cheerfully] Hello! I see you're having trouble with our AR feature. [reassuring tone] First, make sure you've enabled camera permissions in settings—that's under menu ID 3.2A. [helpfully] Are you seeing the blue scanning frame appear at all?
+Character 1: [relieved] Oh wait, yeah, there's a frame now! [excitedly] But it keeps saying "calibration needed" and—[groans]—the percentage just stuck at 47%. Should I try moving to aisle 12-B instead where the lighting's better?
 
-Customer Support: D4: [understanding] Ah, calibration issues are common in low-light areas. [more enthusiastically] Try holding your device exactly 8 to 10 inches from the product barcode. [patiently] Once it hits 100%, you'll see option code V-2.0 for virtual try-on appear.
-1146 Character 1: [amazed] Whoa, it just—it worked! [laughs nervously] I can see the sofa in my living room now, but um, the color looks weird? [puzzled tone] Like it's showing beige but the tag says item color BLU-445?
+1145 Customer Support: [understanding] Ah, calibration issues are common in low-light areas. [more enthusiastically] Try holding your device exactly 8 to 10 inches from the product barcode. [patiently] Once it hits 100%, you'll see option code V-2.0 for virtual try-on appear.
+Character 1: [amazed] Whoa, it just—it worked! [laughs nervously] I can see the sofa in my living room now, but um, the color looks weird? [puzzled tone] Like it's showing beige but the tag says item color BLU-445?
 
-Customer Support: D6: [apologetically] Sometimes our AR renderer has sync issues with color hex codes. [helpful tone] Can you tap the refresh icon—it's the circular arrow near coordinate X234-Y556? [more confidently] That should load the correct texture file, version 3.1.4.
-1147 Character 1: [frustrated groan] Now the whole thing crashed and there's an error—[reading slowly] "Exception at memory address 0x7B4A." [sarcastically] Super helpful, right? My session ID was, uh, let me check... AS-99412-K if that matters?
+1146 Customer Support: [apologetically] Sometimes our AR renderer has sync issues with color hex codes. [helpful tone] Can you tap the refresh icon—it's the circular arrow near coordinate X234-Y556? [more confidently] That should load the correct texture file, version 3.1.4.
+Character 1: [frustrated groan] Now the whole thing crashed and there's an error—[reading slowly] "Exception at memory address 0x7B4A." [sarcastically] Super helpful, right? My session ID was, uh, let me check... AS-99412-K if that matters?
 
-Customer Support: D8: [concerned] Oh dear, that's a cache overflow error. [calmly] Don't worry though—just force-close the app and clear your temporary files. [more technically] When you restart, use quick-scan mode QS-7 instead of the default enhanced mode.
-1148 Character 1: [skeptically] Okay, it's back up but—[surprised gasp]—wow, there's like twenty different furniture pieces floating everywhere! [bewildered] Is this supposed to happen with multi-scan batch MRX-200, or did I break something at coordinates 41.2, -73.8?
+1147 Customer Support: [concerned] Oh dear, that's a cache overflow error. [calmly] Don't worry though—just force-close the app and clear your temporary files. [more technically] When you restart, use quick-scan mode QS-7 instead of the default enhanced mode.
+Character 1: [skeptically] Okay, it's back up but—[surprised gasp]—wow, there's like twenty different furniture pieces floating everywhere! [bewildered] Is this supposed to happen with multi-scan batch MRX-200, or did I break something at coordinates 41.2, -73.8?
 
-Customer Support: D10: [amused chuckle] You've activated our showroom mode by accident! [instructively] Double-tap with two fingers to exit, then select single-item view SIV-1. [reassuringly] Your location data and all 20 scanned items are saved under profile reference PRF-8823-QM though.
+1148 Customer Support: [amused chuckle] You've activated our showroom mode by accident! [instructively] Double-tap with two fingers to exit, then select single-item view SIV-1. [reassuringly] Your location data and all 20 scanned items are saved under profile reference PRF-8823-QM though.
 
 --- CS NO-ALPHANUMERIC ---
 Script: 327bfee2 | Role: Customer Support
