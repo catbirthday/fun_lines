@@ -96,21 +96,21 @@ Character 2: [grateful] Thanks for the patience. [joking] Same time tomorrow? [q
 --- CS ALPHANUMERIC ---
 Script: d1b23d19 | Role: Character 1
 
-1057 Character 1: [furious] Are you KIDDING me right now?! [shouting] My account ID JX4829-B just got banned for absolutely no reason! [incredulous] I've been a premium member since 2018, spent over $3,400 on your platform, and this is how you treat loyal customers?!
+Character 1: [furious] Are you KIDDING me right now?! [shouting] My account ID JX4829-B just got banned for absolutely no reason! [incredulous] I've been a premium member since 2018, spent over $3,400 on your platform, and this is how you treat loyal customers?!
 
-Customer Support: D2: [professional tone] Hello, we understand your frustration regarding account JX4829-B. [calmly] Our records show multiple violations of our Terms of Service, specifically sections 4.2 and 4.7. [apologetically] We've sent three warning emails to your registered address at gmail.
-1058 Character 1: [sarcastically] Oh please, what violations exactly? [getting louder] Playing the game too well?! [scoffs] I never received ANY emails—maybe check if your system actually works before destroying people's accounts!
+1057 Customer Support: [professional tone] Hello, we understand your frustration regarding account JX4829-B. [calmly] Our records show multiple violations of our Terms of Service, specifically sections 4.2 and 4.7. [apologetically] We've sent three warning emails to your registered address at gmail.
+Character 1: [sarcastically] Oh please, what violations exactly? [getting louder] Playing the game too well?! [scoffs] I never received ANY emails—maybe check if your system actually works before destroying people's accounts!
 
-Customer Support: D4: [more firmly] The violations include using automated software detected on October 23rd at 14:32 EST. [measured tone] We have logs showing irregular activity patterns from IP address 192.168.45.221. [sighs] These decisions aren't made lightly, sir.
-1059 Character 1: [outraged] AUTOMATED SOFTWARE?! [laughs bitterly] That's my work VPN, you incompetent— [groans] I'm a network engineer, order number #78234KL proves I bought your VIP package legitimately last month!
+1058 Customer Support: [more firmly] The violations include using automated software detected on October 23rd at 14:32 EST. [measured tone] We have logs showing irregular activity patterns from IP address 192.168.45.221. [sighs] These decisions aren't made lightly, sir.
+Character 1: [outraged] AUTOMATED SOFTWARE?! [laughs bitterly] That's my work VPN, you incompetent— [groans] I'm a network engineer, order number #78234KL proves I bought your VIP package legitimately last month!
 
-Customer Support: D6: [defensive] VPN usage can trigger our anti-cheat systems, as stated in section 8.1.3 of our guidelines. [more apologetically] However, we can review your case if you submit form TOS-REVIEW-2024. [quietly] The process typically takes 7-10 business days.
-1060 Character 1: [mockingly] Oh wow, 7-10 days while my $200 tournament entry fee just vanishes? [exasperated] This is going viral—screenshot saved, timestamp 3:47 PM. [angrily] Forty-two thousand followers are about to hear about this disaster!
+1059 Customer Support: [defensive] VPN usage can trigger our anti-cheat systems, as stated in section 8.1.3 of our guidelines. [more apologetically] However, we can review your case if you submit form TOS-REVIEW-2024. [quietly] The process typically takes 7-10 business days.
+Character 1: [mockingly] Oh wow, 7-10 days while my $200 tournament entry fee just vanishes? [exasperated] This is going viral—screenshot saved, timestamp 3:47 PM. [angrily] Forty-two thousand followers are about to hear about this disaster!
 
-Customer Support: D8: [nervously] Sir, threatening our company won't expedite your review process. [more sternly] Please submit ticket through proper channels—reference number RV-20241028-4829. [sighs heavily] We're trying to help, but public harassment violates our social media policy.
-1061 Character 1: [incredulous] Harassment?! [shouting louder] YOU stole my account worth $3,400! [chuckles darkly] My lawyer's already drafting the small claims filing for case #2024-SC-9823, so maybe... maybe you should expedite that review yourselves.
+1060 Customer Support: [nervously] Sir, threatening our company won't expedite your review process. [more sternly] Please submit ticket through proper channels—reference number RV-20241028-4829. [sighs heavily] We're trying to help, but public harassment violates our social media policy.
+Character 1: [incredulous] Harassment?! [shouting louder] YOU stole my account worth $3,400! [chuckles darkly] My lawyer's already drafting the small claims filing for case #2024-SC-9823, so maybe... maybe you should expedite that review yourselves.
 
-Customer Support: D10: [resigned tone] We've escalated your case to senior management under priority code P1-URGENT-428. [more professionally] You'll receive an email within 24 hours to accounts@jx4829-review.com. [quietly] We apologize for this frustrating experience and appreciate your patience.
+1061 Customer Support: [resigned tone] We've escalated your case to senior management under priority code P1-URGENT-428. [more professionally] You'll receive an email within 24 hours to accounts@jx4829-review.com. [quietly] We apologize for this frustrating experience and appreciate your patience.
 
 --- CS NO-ALPHANUMERIC ---
 Script: 3724af31 | Role: Customer Support
