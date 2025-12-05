@@ -196,39 +196,39 @@ ITEMS 62-71 - CS ALPHANUMERIC (782 words)
 Script: f08dda40
 ============================================================
 
-You are playing a customer service agent; your role: Character 1
+You are playing a customer service agent.
 
 --- FULL SCRIPT ---
-61 Character 1: [frustrated] Look, I specifically called you guys three weeks ago about this wine stain at 4521 Maple Drive. [raising voice] Your technician—employee number 7892—promised me it would come out completely, [sarcastically] but here we are, and it's still visible!
+ Character 1: [frustrated] Look, I specifically called you guys three weeks ago about this wine stain at 4521 Maple Drive. [raising voice] Your technician—employee number 7892—promised me it would come out completely, [sarcastically] but here we are, and it's still visible!
 
-Customer Support: D2: [apologetically] I understand your frustration, Mrs. Henderson. [calmly] According to our records for job ID MT-45621, the technician did note that, um, certain wine stains—especially ones over six months old—might not lift entirely. [gently] We did achieve about 70% improvement though.
-62 Character 1: [incredulous] Seventy percent? [groans] That's not what I paid $450 for! [more angrily] When I signed contract number 2024-JAN-889, your sales rep guaranteed—and I quote—"complete stain removal or your money back."
+61 Customer Support: D2: [apologetically] I understand your frustration, Mrs. Henderson. [calmly] According to our records for job ID MT-45621, the technician did note that, um, certain wine stains—especially ones over six months old—might not lift entirely. [gently] We did achieve about 70% improvement though.
+ Character 1: [incredulous] Seventy percent? [groans] That's not what I paid $450 for! [more angrily] When I signed contract number 2024-JAN-889, your sales rep guaranteed—and I quote—"complete stain removal or your money back."
 
-Customer Support: D4: [diplomatically] Well, if you check section 4B of that contract, it does mention that guarantee applies only to stains less than 30 days old. [sympathetically] I know it's disappointing, but [sighs], wine contains tannins that permanently bond with carpet fibers after, you know, extended periods.
-63 Character 1: [exasperated] This is ridiculous! [more loudly] My neighbor at 4519 Maple had the exact same Merlot spill, and CleanPro got hers out completely! [accusingly] Are you telling me their $300 service is somehow better than yours?
+62 Customer Support: D4: [diplomatically] Well, if you check section 4B of that contract, it does mention that guarantee applies only to stains less than 30 days old. [sympathetically] I know it's disappointing, but [sighs], wine contains tannins that permanently bond with carpet fibers after, you know, extended periods.
+ Character 1: [exasperated] This is ridiculous! [more loudly] My neighbor at 4519 Maple had the exact same Merlot spill, and CleanPro got hers out completely! [accusingly] Are you telling me their $300 service is somehow better than yours?
 
-Customer Support: D6: [defensively] Our methods are industry-leading, actually. [more firmly] Every carpet reacts differently—fiber type, age, previous treatments—it all matters. [trying to be helpful] Perhaps we could schedule a re-treatment with our specialist, technician 4455, who has, um, twenty years experience with wine stains.
-64 Character 1: [skeptically] Another treatment? [scoffs] How much is that going to cost me—another four hundred bucks? [bitterly] My warranty number WST-9901-2024 should cover this since your first attempt clearly failed!
+63 Customer Support: D6: [defensively] Our methods are industry-leading, actually. [more firmly] Every carpet reacts differently—fiber type, age, previous treatments—it all matters. [trying to be helpful] Perhaps we could schedule a re-treatment with our specialist, technician 4455, who has, um, twenty years experience with wine stains.
+Character 1: [skeptically] Another treatment? [scoffs] How much is that going to cost me—another four hundred bucks? [bitterly] My warranty number WST-9901-2024 should cover this since your first attempt clearly failed!
 
-Customer Support: D8: [hesitantly] The warranty does cover re-treatment, but [clears throat], only for new stains that occur after our initial service. [more encouragingly] However, I could offer you our loyalty discount code SAVE30WINE for 30% off the specialist visit, bringing it down to just $175.
-65 Character 1: [outraged] A hundred seventy-five dollars to fix what you couldn't fix the first time? [chuckles bitterly] That's rich! [demandingly] I want to speak to your supervisor—what's their direct extension, because this is absolutely unacceptable!
+64 Customer Support: D8: [hesitantly] The warranty does cover re-treatment, but [clears throat], only for new stains that occur after our initial service. [more encouragingly] However, I could offer you our loyalty discount code SAVE30WINE for 30% off the specialist visit, bringing it down to just $175.
+ Character 1: [outraged] A hundred seventy-five dollars to fix what you couldn't fix the first time? [chuckles bitterly] That's rich! [demandingly] I want to speak to your supervisor—what's their direct extension, because this is absolutely unacceptable!
 
-Customer Support: D10: [resigned] My supervisor, Janet Mills, is at extension 2245, but she'll tell you the same thing. [more confidently] Listen, what if I personally guarantee that if technician 4455 can't improve it beyond 85%, we'll refund the re-treatment fee? [hopefully] That's reference number RTG-0923 for your records.
-66 Character 1: [considering] Eighty-five percent, huh? [sighs heavily] And this technician 4455—what makes them so special compared to the kid you sent last time? [suspiciously] Do they actually have some magical wine-removing certification or something?
+65 Customer Support: D10: [resigned] My supervisor, Janet Mills, is at extension 2245, but she'll tell you the same thing. [more confidently] Listen, what if I personally guarantee that if technician 4455 can't improve it beyond 85%, we'll refund the re-treatment fee? [hopefully] That's reference number RTG-0923 for your records.
+ Character 1: [considering] Eighty-five percent, huh? [sighs heavily] And this technician 4455—what makes them so special compared to the kid you sent last time? [suspiciously] Do they actually have some magical wine-removing certification or something?
 
-Customer Support: D12: [enthusiastically] Actually, yes! Marcus—that's technician 4455—has the IICRC Master Textile Cleaner certification, number MTC-88901. [proudly] He's literally written articles about tannin removal for, um, three different industry journals. [reassuringly] If anyone can help, it's definitely him.
-67 Character 1: [reluctantly] Fine, when can this Marcus person come out? [impatiently] I've got my book club here Thursday at 2 PM, and I absolutely cannot have them seeing this stain—especially not Patricia from unit 4B!
+66 Customer Support: D12: [enthusiastically] Actually, yes! Marcus—that's technician 4455—has the IICRC Master Textile Cleaner certification, number MTC-88901. [proudly] He's literally written articles about tannin removal for, um, three different industry journals. [reassuringly] If anyone can help, it's definitely him.
+ Character 1: [reluctantly] Fine, when can this Marcus person come out? [impatiently] I've got my book club here Thursday at 2 PM, and I absolutely cannot have them seeing this stain—especially not Patricia from unit 4B!
 
-Customer Support: D14: [checking] Let me see... [optimistically] Marcus has an opening Wednesday at 9 AM or Friday at 3:30 PM. [helpfully] If you choose Wednesday, that gives the carpet full 24 hours to dry before your, um, your book club arrives.
-68 Character 1: [decisively] Wednesday at nine then—but I'm documenting everything this time. [warningly] If this doesn't work, I'm filing complaint number whatever with the Better Business Bureau, [threateningly] and my review on Yelp will be... thorough.
+67 Customer Support: D14: [checking] Let me see... [optimistically] Marcus has an opening Wednesday at 9 AM or Friday at 3:30 PM. [helpfully] If you choose Wednesday, that gives the carpet full 24 hours to dry before your, um, your book club arrives.
+ Character 1: [decisively] Wednesday at nine then—but I'm documenting everything this time. [warningly] If this doesn't work, I'm filing complaint number whatever with the Better Business Bureau, [threateningly] and my review on Yelp will be... thorough.
 
-Customer Support: D16: [professionally] That's completely understandable, Mrs. Henderson. [efficiently] I've scheduled you for Wednesday, January 31st at 9 AM—confirmation number SC-20240131-445. [cheerfully] Marcus will call you at 555-0142 the night before to confirm, okay?
-69 Character 1: [somewhat appeased] Alright, but I'm holding you to that 85% improvement guarantee—reference RTG-0923, right? [firmly] And I want that discount code SAVE30WINE applied before he even shows up, [cautiously] not some surprise charge on my Visa ending in 4429.
+68 Customer Support: D16: [professionally] That's completely understandable, Mrs. Henderson. [efficiently] I've scheduled you for Wednesday, January 31st at 9 AM—confirmation number SC-20240131-445. [cheerfully] Marcus will call you at 555-0142 the night before to confirm, okay?
+ Character 1: [somewhat appeased] Alright, but I'm holding you to that 85% improvement guarantee—reference RTG-0923, right? [firmly] And I want that discount code SAVE30WINE applied before he even shows up, [cautiously] not some surprise charge on my Visa ending in 4429.
 
-Customer Support: D18: [confidently] Absolutely, I'm applying the discount right now to your account, customer ID CH-789456. [reassuringly] You'll see the adjusted invoice for $175 in your email within, oh, about five minutes. [warmly] Is there anything else I can help clarify before Wednesday?
-70 Character 1: [resigned] No, I suppose not. [sighs] Just... make sure Marcus knows this is a 2019 Château Margaux stain, not some cheap grocery store wine. [hopefully] Maybe that information will help him work his supposed magic better.
+69 Customer Support: D18: [confidently] Absolutely, I'm applying the discount right now to your account, customer ID CH-789456. [reassuringly] You'll see the adjusted invoice for $175 in your email within, oh, about five minutes. [warmly] Is there anything else I can help clarify before Wednesday?
+ Character 1: [resigned] No, I suppose not. [sighs] Just... make sure Marcus knows this is a 2019 Château Margaux stain, not some cheap grocery store wine. [hopefully] Maybe that information will help him work his supposed magic better.
 
-Customer Support: D20: [amused] I'll definitely add that to the work order notes—2019 Château Margaux, got it. [sincerely] Mrs. Henderson, I really do hope this resolves everything for you. [professionally] Thank you for choosing CarpetBright, and Marcus will see you Wednesday at 9 AM sharp!
+70 Customer Support: D20: [amused] I'll definitely add that to the work order notes—2019 Château Margaux, got it. [sincerely] Mrs. Henderson, I really do hope this resolves everything for you. [professionally] Thank you for choosing CarpetBright, and Marcus will see you Wednesday at 9 AM sharp!
 
 ============================================================
 ITEMS 72-81 - CS NO-ALPHANUMERIC (327 words)
