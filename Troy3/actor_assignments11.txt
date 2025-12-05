@@ -94,38 +94,38 @@ Character 1: [grumbling] Fine, fine, hospitals for emergencies. [brighter] But e
 892 Character 2: [laughing warmly] My future kids will be the healthiest, most superstitious little scientists ever. [lovingly] They'll wear evil eye bracelets to their chemistry classes. [Contented sigh] Maybe that's the perfect balance—skepticism with just a pinch of magic.
 
 --- CS ALPHANUMERIC ---
-Script: b22f216f | Role: Character 1
+Script: b22f216f | Role: CS
 
-893 Character 1: [irritated] Mrs. Henderson, I've been waiting since 2:15 PM for this meeting. [sharp exhale] My daughter Emma, student ID 47832B, has been bullied for three weeks straight and you've done [sarcastically] absolutely nothing about it.
+ Character 1: [irritated] Mrs. Henderson, I've been waiting since 2:15 PM for this meeting. [sharp exhale] My daughter Emma, student ID 47832B, has been bullied for three weeks straight and you've done [sarcastically] absolutely nothing about it.
 
-Customer Support: D2: [apologetically] I understand your frustration, Mr. Davies. [measured tone] According to our incident report filed on October 12th, we've already initiated Protocol 5A which includes, um, mediation sessions between the students involved.
-894 Character 1: [scoffs] Mediation? [raising voice] The Miller boy pushed her down the stairs near classroom 204B yesterday! [more angrily] She has bruises, actual physical bruises, and you're talking about sitting them down for a chat?
+893 Customer Support: D2: [apologetically] I understand your frustration, Mr. Davies. [measured tone] According to our incident report filed on October 12th, we've already initiated Protocol 5A which includes, um, mediation sessions between the students involved.
+ Character 1: [scoffs] Mediation? [raising voice] The Miller boy pushed her down the stairs near classroom 204B yesterday! [more angrily] She has bruises, actual physical bruises, and you're talking about sitting them down for a chat?
 
-Customer Support: D4: [firmly] Physical assault is taken very seriously here. [concerned] However, our security footage from camera C-7 at timestamp 14:32:18 shows... well, it appears to be an accidental collision during class transition.
-895 Character 1: [incredulous] Accidental? [laughs bitterly] He's posted six different messages on her social media, screenshots dated November 3rd through 8th, calling her horrible names. [demanding] I want him suspended immediately, minimum five days.
+894 Customer Support: D4: [firmly] Physical assault is taken very seriously here. [concerned] However, our security footage from camera C-7 at timestamp 14:32:18 shows... well, it appears to be an accidental collision during class transition.
+ Character 1: [incredulous] Accidental? [laughs bitterly] He's posted six different messages on her social media, screenshots dated November 3rd through 8th, calling her horrible names. [demanding] I want him suspended immediately, minimum five days.
 
-Customer Support: D6: [calmly] Cyberbullying falls under District Policy 8.7.2, which requires documentation. [more gently] Have you filed the formal complaint form 22-A with our counseling office at extension 3451? [sighs] We need proper channels followed, Mr. Davies.
-896 Character 1: [exasperated] I've filled out seven forms already! [groans] Forms 22-A, 18-C, even that ridiculous wellness check 14-B you insisted on. [more desperately] Meanwhile, Emma refuses to attend her AP Chemistry class in room 312.
+895 Customer Support: D6: [calmly] Cyberbullying falls under District Policy 8.7.2, which requires documentation. [more gently] Have you filed the formal complaint form 22-A with our counseling office at extension 3451? [sighs] We need proper channels followed, Mr. Davies.
+ Character 1: [exasperated] I've filled out seven forms already! [groans] Forms 22-A, 18-C, even that ridiculous wellness check 14-B you insisted on. [more desperately] Meanwhile, Emma refuses to attend her AP Chemistry class in room 312.
 
-Customer Support: D8: [sympathetic] I see she's maintaining a 3.8 GPA despite these challenges. [thoughtfully] What if we arrange a schedule change, moving her from Period 3 Chemistry, course code CHM-401, to Period 6 with Mr. Johnson instead?
-897 Character 1: [frustrated sigh] That's just avoiding the problem! [louder] The Miller family lives at 458 Oak Street, two blocks from us. [bitterly] We see them everywhere—grocery store, soccer practice at Field 4, even at church.
+896 Customer Support: D8: [sympathetic] I see she's maintaining a 3.8 GPA despite these challenges. [thoughtfully] What if we arrange a schedule change, moving her from Period 3 Chemistry, course code CHM-401, to Period 6 with Mr. Johnson instead?
+ Character 1: [frustrated sigh] That's just avoiding the problem! [louder] The Miller family lives at 458 Oak Street, two blocks from us. [bitterly] We see them everywhere—grocery store, soccer practice at Field 4, even at church.
 
-Customer Support: D10: [reassuring] Mr. Davies, I've scheduled a disciplinary hearing for November 15th at 9:00 AM. [more firmly] The superintendent, three board members, and our legal counsel from Suite 200 will review all evidence, including the twelve-page report I've compiled.
-898 Character 1: [skeptically] Twelve pages? [softer] Look, I... I appreciate that, but Emma's therapy bills are already at $2,400 this month. [voice breaking] Insurance claim number TH-889214 only covers sixty percent of mental health services.
+897 Customer Support: D10: [reassuring] Mr. Davies, I've scheduled a disciplinary hearing for November 15th at 9:00 AM. [more firmly] The superintendent, three board members, and our legal counsel from Suite 200 will review all evidence, including the twelve-page report I've compiled.
+ Character 1: [skeptically] Twelve pages? [softer] Look, I... I appreciate that, but Emma's therapy bills are already at $2,400 this month. [voice breaking] Insurance claim number TH-889214 only covers sixty percent of mental health services.
 
-Customer Support: D12: [quietly] Our district provides free counseling services through Partnership Code MH-2023. [more encouragingly] Dr. Sarah Chen, licensed therapist, credential number 45778-CA, visits campus every Tuesday and Thursday. Should I schedule Emma for the 3:30 slot?
-899 Character 1: [hesitant] Well, that's... [clears throat] I didn't know about that program. [defensively] But this doesn't address the core issue—why is that boy still attending school like nothing happened?
+898 Customer Support: D12: [quietly] Our district provides free counseling services through Partnership Code MH-2023. [more encouragingly] Dr. Sarah Chen, licensed therapist, credential number 45778-CA, visits campus every Tuesday and Thursday. Should I schedule Emma for the 3:30 slot?
+ Character 1: [hesitant] Well, that's... [clears throat] I didn't know about that program. [defensively] But this doesn't address the core issue—why is that boy still attending school like nothing happened?
 
-Customer Support: D14: [carefully] Due to FERPA regulations, Section 99.31, I can't discuss another student's disciplinary status. [sighs deeply] However, I assure you that appropriate measures, documented in case file 2023-BUL-0847, are being implemented as we speak.
-900 Character 1: [annoyed grunt] Always hiding behind regulations! [accusingly] Three other parents—the Johnsons, the Garcias, and the Chens from the PTA board—they've all complained about this same student. [demanding] When does it become enough?
+899 Customer Support: D14: [carefully] Due to FERPA regulations, Section 99.31, I can't discuss another student's disciplinary status. [sighs deeply] However, I assure you that appropriate measures, documented in case file 2023-BUL-0847, are being implemented as we speak.
+ Character 1: [annoyed grunt] Always hiding behind regulations! [accusingly] Three other parents—the Johnsons, the Garcias, and the Chens from the PTA board—they've all complained about this same student. [demanding] When does it become enough?
 
-Customer Support: D16: [seriously] Pattern behavior triggers automatic review under Statute 48900. [more confidentially] Between us, after incident number four, which would be yours, the district mandate requires immediate intervention including possible transfer to Westfield Alternative School, campus code WAS-7.
-901 Character 1: [surprised] Oh. [quieter] That's actually... more than I expected. [sighs] Emma just wants to feel safe in her honors classes, especially room 215 where most of these incidents occur during passing period.
+900 Customer Support: D16: [seriously] Pattern behavior triggers automatic review under Statute 48900. [more confidentially] Between us, after incident number four, which would be yours, the district mandate requires immediate intervention including possible transfer to Westfield Alternative School, campus code WAS-7.
+ Character 1: [surprised] Oh. [quieter] That's actually... more than I expected. [sighs] Emma just wants to feel safe in her honors classes, especially room 215 where most of these incidents occur during passing period.
 
-Customer Support: D18: [warmly] Starting Monday, we'll have additional supervision at Junction Point B between buildings 200 and 300. [reassuring tone] Officer Martinez, badge number 7841, will specifically monitor that area during all transition periods, roughly 10:47 to 10:52 AM.
-902 Character 1: [relieved exhale] Thank you, that... that helps. [more calmly] I'll need this all documented in writing, sent to my email ddavies@lawfirm447.com, preferably PDF format with reference number for our records. [firmly] By tomorrow, please.
+901 Customer Support: D18: [warmly] Starting Monday, we'll have additional supervision at Junction Point B between buildings 200 and 300. [reassuring tone] Officer Martinez, badge number 7841, will specifically monitor that area during all transition periods, roughly 10:47 to 10:52 AM.
+ Character 1: [relieved exhale] Thank you, that... that helps. [more calmly] I'll need this all documented in writing, sent to my email ddavies@lawfirm447.com, preferably PDF format with reference number for our records. [firmly] By tomorrow, please.
 
-Customer Support: D20: [professional] Absolutely, you'll receive comprehensive documentation by 5:00 PM tomorrow. [kindly] Emma's wellbeing is our priority, Mr. Davies, and I'll personally call you at 555-0147 after Monday's intervention to, um, discuss progress. [gentle sigh] We'll get through this together.
+902 Customer Support: D20: [professional] Absolutely, you'll receive comprehensive documentation by 5:00 PM tomorrow. [kindly] Emma's wellbeing is our priority, Mr. Davies, and I'll personally call you at 555-0147 after Monday's intervention to, um, discuss progress. [gentle sigh] We'll get through this together.
 
 --- CS NO-ALPHANUMERIC ---
 Script: f27f564a | Role: Customer Support
