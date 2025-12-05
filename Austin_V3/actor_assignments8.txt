@@ -1,25 +1,4 @@
---- EMPATHETIC PARTIAL ---
-Script: 8c136152_script | Role: Character 2 (B)
 
-Character 1: Three days. Nothing.
--9 Character 2: I know, I know how it looks, but I was dealing with—my mom was in the hospital, okay? I wasn't exactly checking my phone every five seconds.
-Character 1: A text takes two seconds.
--8 Character 2: That's—come on, that's not fair. You think I was just sitting around choosing not to text you? I was literally sleeping in a hospital chair for two nights straight. [scoff] But sure, yeah, I should've made time for our dinner plans discussion.
-Character 1: You had time to post on Instagram.
--7 Character 2: That was—okay okay, that was my sister using my phone to update people about my mom. I didn't even know she did that until like, yesterday. You're acting like I was out partying or something.
-Character 1: I didn't know what to think. You just disappeared.
--6 Character 2: And I'm sorry about that, I am, but also like—I dunno, maybe cut me some slack? You know I don't just ignore you for fun. There was literally a reason, a pretty serious one actually. [frustrated laugh]
-Character 1: You could've sent something. Anything.
--5 Character 2: Yeah, well, you could've checked in differently too instead of just—I mean, you sent me like fifteen angry texts before even asking if I was okay. That kinda hurt, honestly.
-Character 1: How was I supposed to know?
--4 Character 2: You weren't! That's—that's exactly my point though. You just assumed I was being a jerk instead of thinking maybe, just maybe, something was actually wrong.
-Character 1: Because you never said anything was wrong.
--3 Character 2: I get it, I do, but I was barely keeping it together, y'know? I wasn't thinking straight, I wasn't—[sigh] look look, I should've texted, fine. But you're acting like I committed some huge betrayal here.
-Character 1: It felt like it.
--2 Character 2: Okay but that's—I mean, come on. We've been friends for how long? And you immediately jump to me just not caring about you? That's what's kinda disappointing here, honestly.
-Character 1: Three days is a long time.
--1 Character 2: It is, you're right, it is. And I'm not saying you can't be upset, but like—I dunno, I guess I thought you'd be more understanding once you knew why. Instead you're still acting like I did this to hurt you on purpose.
-Character 1: I was worried. Then I was angry.
 470 Character 2: And I get both of those things, I really do. But I'm also kinda frustrated that you're more focused on being mad than on—whatever, forget it. I said I was sorry, my mom's okay now, can we just... move past this?
 
 Script: 80b60b0e_script | Role: Character 2 (B)
@@ -441,3 +420,26 @@ Wait, wait— if this is indexed by Google, that means anyone can find this! My 
 [frantic] [horrified]
 I'm frantically trying to remember what else is connected to this username and I just keep finding more! DeviantArt! Fanfiction! [whimper] There's no escape!
 
+
+--- EMPATHETIC PARTIAL ---
+Script: 8c136152_script | Role: Character 2 (B)
+
+Character 1: Three days. Nothing.
+495 Character 2: I know, I know how it looks, but I was dealing with—my mom was in the hospital, okay? I wasn't exactly checking my phone every five seconds.
+Character 1: A text takes two seconds.
+496 Character 2: That's—come on, that's not fair. You think I was just sitting around choosing not to text you? I was literally sleeping in a hospital chair for two nights straight. [scoff] But sure, yeah, I should've made time for our dinner plans discussion.
+Character 1: You had time to post on Instagram.
+497 Character 2: That was—okay okay, that was my sister using my phone to update people about my mom. I didn't even know she did that until like, yesterday. You're acting like I was out partying or something.
+Character 1: I didn't know what to think. You just disappeared.
+498 Character 2: And I'm sorry about that, I am, but also like—I dunno, maybe cut me some slack? You know I don't just ignore you for fun. There was literally a reason, a pretty serious one actually. [frustrated laugh]
+Character 1: You could've sent something. Anything.
+499 Character 2: Yeah, well, you could've checked in differently too instead of just—I mean, you sent me like fifteen angry texts before even asking if I was okay. That kinda hurt, honestly.
+Character 1: How was I supposed to know?
+500 Character 2: You weren't! That's—that's exactly my point though. You just assumed I was being a jerk instead of thinking maybe, just maybe, something was actually wrong.
+Character 1: Because you never said anything was wrong.
+501 Character 2: I get it, I do, but I was barely keeping it together, y'know? I wasn't thinking straight, I wasn't—[sigh] look look, I should've texted, fine. But you're acting like I committed some huge betrayal here.
+Character 1: It felt like it.
+502 Character 2: Okay but that's—I mean, come on. We've been friends for how long? And you immediately jump to me just not caring about you? That's what's kinda disappointing here, honestly.
+Character 1: Three days is a long time.
+503 Character 2: It is, you're right, it is. And I'm not saying you can't be upset, but like—I dunno, I guess I thought you'd be more understanding once you knew why. Instead you're still acting like I did this to hurt you on purpose.
+Character 1: I was worried. Then I was angry.
