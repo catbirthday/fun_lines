@@ -1,15 +1,7 @@
 --- EMPATHETIC PARTIAL ---
 Script: d75d5884_script | Role: Character 2 (B)
 
-Character 1: You said you'd help me move.
-288 Character 2: I know, I know! I'm so sorry, I just—something came up and I couldn't—okay that sounds terrible. Let me explain, please?
-Character 1: Something came up. Right.
-289 Character 2: No no no, listen, it's not like that! My mom called and she needed me to drive her to the hospital—wait, that makes it sound worse than it was. She's fine! But her car broke down and she had an appointment and I just... I completely blanked on the moving thing. [nervous laugh] I should've texted you.
-Character 1: You should've texted me.
-290 Character 2: I know. God, I know, okay? I literally feel like the worst friend ever right now. You were counting on me and I just—I totally bailed. That's not... that's not who I wanna be, y'know?
-Character 1: I had to do it all myself. Four flights of stairs.
-291 Character 2: Oh my god. Four flights? Jesus, I'm—I'm such an asshole. [groan] You must've been exhausted. I mean, I can't even imagine... actually wait, did you at least get someone else to help or was it really just you?
-Character 1: Just me. Thanks for asking.
+
 292 Character 2: Okay I deserve that. I totally deserve that. But like, honestly? I'm gonna make this up to you. Whatever you need—unpacking, organizing, I'll buy you pizza for a month, I don't care. Just... please don't hate me forever?
 Character 1: I don't hate you.
 293 Character 2: You sure? Because you seem pretty—I mean, you have every right to be pissed. I would be too if someone flaked on me like that.
