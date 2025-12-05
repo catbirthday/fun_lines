@@ -174,36 +174,36 @@ Character 2: [relieved laugh] I'd like that, Mom—really. [tenderly] And maybe 
 --- CS ALPHANUMERIC ---
 Script: 3032aeee | Role: Character 1
 
-324 Character 1: [frustrated] Look, I've been calling about this for weeks—my warranty number is RW-7829-JK, [getting louder] and now you're telling me it's void? [exasperated sigh] The leak at 4521 Oak Street started just two months after installation!
+Character 1: [frustrated] Look, I've been calling about this for weeks—my warranty number is RW-7829-JK, [getting louder] and now you're telling me it's void? [exasperated sigh] The leak at 4521 Oak Street started just two months after installation!
 
-Customer Support: D2: [defensive] Sir, our records clearly show that you had unauthorized modifications done on May 15th. [more firmly] The warranty terms, which you signed, specifically state that any third-party work—[pause]—immediately voids coverage.
-325 Character 1: [outraged] Third-party work? [scoffs] Your own subcontractor came out here, invoice number INV-9982-B! He said the initial install was, was completely wrong, [desperately] missing underlayment on the entire north section!
+324 Customer Support: Sir, our records clearly show that you had unauthorized modifications done on May 15th. [more firmly] The warranty terms, which you signed, specifically state that any third-party work—[pause]—immediately voids coverage.
+Character 1: [outraged] Third-party work? [scoffs] Your own subcontractor came out here, invoice number INV-9982-B! He said the initial install was, was completely wrong, [desperately] missing underlayment on the entire north section!
 
-Customer Support: D4: [skeptical] That subcontractor wasn't authorized by our main office. [in a condescending tone] You should've called the hotline at 1-800-ROOF-FIX first, [slowly] not some random guy with our company shirt.
-326 Character 1: [shouting] Random guy? [incredulous] He had your company van, license plate RFG-4421! [groans] How was I supposed to know he wasn't—look, just look at this damage spreading!
+325 Customer Support: [skeptical] That subcontractor wasn't authorized by our main office. [in a condescending tone] You should've called the hotline at 1-800-ROOF-FIX first, [slowly] not some random guy with our company shirt.
+ Character 1: [shouting] Random guy? [incredulous] He had your company van, license plate RFG-4421! [groans] How was I supposed to know he wasn't—look, just look at this damage spreading!
 
-Customer Support: D6: [dismissively] The van means nothing without proper work order verification. [more sternly] Section 12.3.B of your contract clearly states all repairs must go through dispatch, [sighs] not field technicians directly.
-327 Character 1: [sarcastically] Oh great, now you're quoting subsections at me. [getting angrier] My ceiling collapsed in bedroom three yesterday! [desperately] Insurance claim number CL-00567 is pending but they need your warranty confirmation!
+326 Customer Support:  [dismissively] The van means nothing without proper work order verification. [more sternly] Section 12.3.B of your contract clearly states all repairs must go through dispatch, [sighs] not field technicians directly.
+Character 1: [sarcastically] Oh great, now you're quoting subsections at me. [getting angrier] My ceiling collapsed in bedroom three yesterday! [desperately] Insurance claim number CL-00567 is pending but they need your warranty confirmation!
 
-Customer Support: D8: [unmoved] Unfortunately, without following proper protocol, we can't honor any warranty claims. [matter-of-factly] You'll need to file form WD-77 for review, [pause] though honestly, approval seems unlikely given these circumstances.
-328 Character 1: [pleading] This is insane—I paid $18,500 for this premium package! [voice breaking] My kids can't even sleep upstairs anymore, and and you're worried about [bitterly] paperwork technicalities from paragraph whatever?
+327 Customer Support: [unmoved] Unfortunately, without following proper protocol, we can't honor any warranty claims. [matter-of-factly] You'll need to file form WD-77 for review, [pause] though honestly, approval seems unlikely given these circumstances.
+Character 1: [pleading] This is insane—I paid $18,500 for this premium package! [voice breaking] My kids can't even sleep upstairs anymore, and and you're worried about [bitterly] paperwork technicalities from paragraph whatever?
 
-Customer Support: D10: [coldly professional] Sir, the premium package doesn't exempt you from warranty conditions. [more firmly] If you'd like to dispute this, call corporate at extension 4429, [resigned sigh] but the decision stands today.
-329 Character 1: [defeated] So that's it? [voice rising again] Account number RF-2023-8847, perfect payment history, five star reviews—[chuckles bitterly] none of that matters because of one miscommunication?
+328 Customer Support: [coldly professional] Sir, the premium package doesn't exempt you from warranty conditions. [more firmly] If you'd like to dispute this, call corporate at extension 4429, [resigned sigh] but the decision stands today.
+Character 1: [defeated] So that's it? [voice rising again] Account number RF-2023-8847, perfect payment history, five star reviews—[chuckles bitterly] none of that matters because of one miscommunication?
 
-Customer Support: D12: [slightly sympathetic] Look, I understand your frustration, really. [more businesslike] But my hands are tied by policy 2.7.A here. [quietly] Maybe try calling Monday, ask for supervisor Jenkins, badge J-4471.
-330 Character 1: [suspicious] Jenkins? [hopefully] Wait, are you saying he might actually help? [urgently] Because the adjuster comes Tuesday at 2 PM and I need—I really need something in writing!
+329 Customer Support: [slightly sympathetic] Look, I understand your frustration, really. [more businesslike] But my hands are tied by policy 2.7.A here. [quietly] Maybe try calling Monday, ask for supervisor Jenkins, badge J-4471.
+Character 1: [suspicious] Jenkins? [hopefully] Wait, are you saying he might actually help? [urgently] Because the adjuster comes Tuesday at 2 PM and I need—I really need something in writing!
 
-Customer Support: D14: [carefully] I'm not saying anything officially. [whispers] But Jenkins has override code authority for situations involving, uh, [pause] potential installation errors from batch crews 300 through 350.
-331 Character 1: [confused] Batch crews? [eagerly] We had crew 342 do our install—April 3rd! [gasps] Does that mean there's actually a known issue with those teams?
+330 Customer Support: [carefully] I'm not saying anything officially. [whispers] But Jenkins has override code authority for situations involving, uh, [pause] potential installation errors from batch crews 300 through 350.
+Character 1: [confused] Batch crews? [eagerly] We had crew 342 do our install—April 3rd! [gasps] Does that mean there's actually a known issue with those teams?
 
-Customer Support: D16: [backtracking] I didn't say there were issues. [nervously] Just that certain crew numbers between those ranges have, have different review procedures. [more quietly] Don't mention I told you this.
-332 Character 1: [determined] Right, okay, so Monday morning, Jenkins, extension 4429. [calculating] And I should reference crew 342 and the, the override protocols? [relieved sigh] This better work.
+331 Customer Support: [backtracking] I didn't say there were issues. [nervously] Just that certain crew numbers between those ranges have, have different review procedures. [more quietly] Don't mention I told you this.
+Character 1: [determined] Right, okay, so Monday morning, Jenkins, extension 4429. [calculating] And I should reference crew 342 and the, the override protocols? [relieved sigh] This better work.
 
-Customer Support: D18: [warning tone] Just stick to the facts about your installation date and crew number. [more firmly] And bring documentation—receipt R-9847-C would help. [pause] That's all I can suggest right now.
-333 Character 1: [grateful but frustrated] Fine, I'll try that route. [sarcastically] Though it's ridiculous that I need secret codes and [sighs] insider knowledge just to get my roof fixed properly!
+332 Customer Support: [warning tone] Just stick to the facts about your installation date and crew number. [more firmly] And bring documentation—receipt R-9847-C would help. [pause] That's all I can suggest right now.
+Character 1: [grateful but frustrated] Fine, I'll try that route. [sarcastically] Though it's ridiculous that I need secret codes and [sighs] insider knowledge just to get my roof fixed properly!
 
-Customer Support: D20: [professionally distant] Is there anything else regarding today's inspection I can document? [matter-of-factly] Otherwise, I'll note warranty claim WC-7829 as pending review, [formally] subject to supervisor approval per standard procedure.
+333 Customer Support: [professionally distant] Is there anything else regarding today's inspection I can document? [matter-of-factly] Otherwise, I'll note warranty claim WC-7829 as pending review, [formally] subject to supervisor approval per standard procedure.
 
 --- CS NO-ALPHANUMERIC ---
 Script: 9be53f45 | Role: Customer Support
