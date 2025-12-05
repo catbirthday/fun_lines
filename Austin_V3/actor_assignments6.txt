@@ -69,23 +69,23 @@ Character 2: [raw emotion] Seven victims. [voice breaking] Seven families destro
 Character 2: [grim laugh] You're right. [ice cold] No more rules, no more playing nice. [venomous whisper] Next time we meet, only one of us walks away—and it won't be him.
 
 --- CS ALPHANUMERIC ---
-Script: 8e597bbc | Role: Character 1
+Script: 8e597bbc | Role: Customer Support
 
-419 Character 1: [frustrated] Look, I ordered a Samsung Galaxy S23 Ultra for $899 on your website yesterday—order number JX4729K. [voice rising] But what arrived this morning was some knock-off phone called "Samsnug Galaxy" [disgusted] in completely different packaging!
+ Character 1: [frustrated] Look, I ordered a Samsung Galaxy S23 Ultra for $899 on your website yesterday—order number JX4729K. [voice rising] But what arrived this morning was some knock-off phone called "Samsnug Galaxy" [disgusted] in completely different packaging!
 
-Customer Support: D2: [professional] I do apologize for this issue, sir. [calmly] Let me pull up your order right away. [reassuring] Could you please verify the email address associated with account number JX4729K?
-420 Character 1: [impatiently] It's michaelr1982@gmail.com, and I've been a premium member since 2019! [sarcastically] You guys advertised "authentic electronics only" but this—this is just [groans] unbelievable fraud.
+419 Customer Support: D2: [professional] I do apologize for this issue, sir. [calmly] Let me pull up your order right away. [reassuring] Could you please verify the email address associated with account number JX4729K?
+ Character 1: [impatiently] It's michaelr1982@gmail.com, and I've been a premium member since 2019! [sarcastically] You guys advertised "authentic electronics only" but this—this is just [groans] unbelievable fraud.
 
-Customer Support: D4: [apologetically] I see your account here, Mr. Richardson. [concerned] According to our system, the Galaxy S23 Ultra should have been shipped from warehouse facility 47B in Dallas. [pause] Can you check if the tracking number matches TRK-88291-QM?
-421 Character 1: [loudly] Yes, the tracking matches but the product doesn't! [exasperated] The phone's box says "1200GB storage"—Samsung doesn't even make that! [more angrily] And the IMEI number 359881097654321 comes up as invalid when I checked it.
+420 Customer Support: D4: [apologetically] I see your account here, Mr. Richardson. [concerned] According to our system, the Galaxy S23 Ultra should have been shipped from warehouse facility 47B in Dallas. [pause] Can you check if the tracking number matches TRK-88291-QM?
+ Character 1: [loudly] Yes, the tracking matches but the product doesn't! [exasperated] The phone's box says "1200GB storage"—Samsung doesn't even make that! [more angrily] And the IMEI number 359881097654321 comes up as invalid when I checked it.
 
-Customer Support: D6: [more seriously] That's definitely concerning, and I completely understand your frustration. [sympathetic tone] I'm escalating this to our fraud prevention team immediately. [firmly] Would you be able to send photos to complaints@retailer.com, reference case CF-2024-11923?
-422 Character 1: [incredulous] Photos? I want my money back, not to play detective! [voice shaking] I paid through PayPal transaction ID PP8827364X specifically because [bitterly] I thought you were reputable—my shipping address is 4421 Oak Street, Apartment 12C, you have it all there!
+421 Customer Support: D6: [more seriously] That's definitely concerning, and I completely understand your frustration. [sympathetic tone] I'm escalating this to our fraud prevention team immediately. [firmly] Would you be able to send photos to complaints@retailer.com, reference case CF-2024-11923?
+ Character 1: [incredulous] Photos? I want my money back, not to play detective! [voice shaking] I paid through PayPal transaction ID PP8827364X specifically because [bitterly] I thought you were reputable—my shipping address is 4421 Oak Street, Apartment 12C, you have it all there!
 
-Customer Support: D8: [more reassuring] Absolutely, we'll process a full refund within 24-48 hours. [steadily] However, the photos will help us prevent this from happening to other customers. [softer] I'm also adding a $50 credit to your account for this terrible inconvenience.
-423 Character 1: [slightly calmer] Well... okay, but this fake phone better not need returning to some address in China. [sighs heavily] My wife warned me about these deals that seem too good—[muttering] should've listened when she showed me those BBB complaints.
+422 Customer Support: D8: [more reassuring] Absolutely, we'll process a full refund within 24-48 hours. [steadily] However, the photos will help us prevent this from happening to other customers. [softer] I'm also adding a $50 credit to your account for this terrible inconvenience.
+ Character 1: [slightly calmer] Well... okay, but this fake phone better not need returning to some address in China. [sighs heavily] My wife warned me about these deals that seem too good—[muttering] should've listened when she showed me those BBB complaints.
 
-Customer Support: D10: [quickly] No, you won't need to ship internationally at all. [confidently] We'll email you a prepaid UPS label to return it to our Nevada facility at 9001 Desert Way. [warmly] Your refund confirmation RFD-445892-B should arrive within the hour, and [pause] again, I'm truly sorry about this.
+423 Customer Support: D10: [quickly] No, you won't need to ship internationally at all. [confidently] We'll email you a prepaid UPS label to return it to our Nevada facility at 9001 Desert Way. [warmly] Your refund confirmation RFD-445892-B should arrive within the hour, and [pause] again, I'm truly sorry about this.
 
 --- CS NO-ALPHANUMERIC ---
 Script: c4555baa | Role: Customer Support
