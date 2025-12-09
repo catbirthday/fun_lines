@@ -269,7 +269,8 @@
 269  [Disappointed] So basically what you're telling me is that everyone else is lying except you? [Sarcastic] Yeah, that seems super likely.
 270  [Shout] Don't you dare—[Angry] DON'T YOU DARE try to flip this around on me when I have proof!
 271  [Slow] Um, you do realize that you posted about it on Instagram, right? [Tsk] Like, it's still there if you wanna check.
-272  [Sad] I gave you so many chances to just be honest with me and you—[Sigh] God, I feel like such an idiot.273  [Fast] Hold up, hold up—you couldn't have been stuck in traffic because they closed that road like three weeks ago for construction. [Disappointed] Nice try though.
+272  [Sad] I gave you so many chances to just be honest with me and you—[Sigh] God, I feel like such an idiot.
+273  [Fast] Hold up, hold up—you couldn't have been stuck in traffic because they closed that road like three weeks ago for construction. [Disappointed] Nice try though.
 274  [Happy] Oh my god, your face right now is just—[Laugh] [Laugh] You totally forgot about the security cameras, didn't you?
 275  [Whisper] You know what's really messed up? [Slow] I actually would've understood if you'd just told me the truth from the beginning.
 276  [Sarcastic] Mmm-hmm, and I suppose your identical twin was the one using your credit card at that exact location? [Groan] Just admit it already.
